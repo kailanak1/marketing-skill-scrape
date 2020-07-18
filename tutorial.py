@@ -25,11 +25,7 @@ page = soup(html_page, 'html.parser')
 cards = page.findAll("div", {"class":"ProjectCard-root"})
 
 #loop through the cards
-
 for card in cards: 
-    title = card.find("div", {"class":"ProjectCard-title"})
-
-
-
-
-
+    title_container = card.find("div", {"class":"ProjectCard-title"})
+    title = title_container.h2.text
+   
