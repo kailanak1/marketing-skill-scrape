@@ -1,0 +1,705 @@
+<html lang="en" style="height: 100%"><head>
+<meta content="!" name="fragment"/>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<script async="" src="https://www.googleadservices.com/pagead/conversion_async.js" type="text/javascript"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-736663510&amp;l=dataLayer&amp;cx=c" type="text/javascript"></script><script async="" src="https://www.google-analytics.com/analytics.js" type="text/javascript"></script><script async="" crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js?hash=7d37cfe8887f6f752793d7f5d27501c4&amp;ua=modern_es6"></script><script id="facebook-jssdk" src="https://connect.facebook.net/en_US/sdk.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-MBD5H4V"></script><script defer="" src="/static/js/runtime.bundle.js"></script>
+<script defer="" src="/static/js/main.bundle.js"></script>
+<script defer="" src="/static/js/vendors.bundle.js"></script>
+<link href="/static/css/main.styles.css" rel="stylesheet" type="text/css"/>
+<link href="https://d1agxr2dqkgkuy.cloudfront.net/img/favicon.png" rel="icon" type="image/png"/>
+<link crossorigin="anonymous" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" rel="stylesheet"/>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MBD5H4V');</script>
+<!-- End Google Tag Manager -->
+<script type="application/ld+json">
+{
+	"@context": "http://schema.org",
+	"@type": "Organization",
+	"name": "democracyLab",
+	"description": "DemocracyLab is a matchmaking platform that helps socially-conscious individuals who want to help their communities find tech-for-good projects that match interests and skills",
+	"image": "https://d1agxr2dqkgkuy.cloudfront.net/img/dl_logo.png",
+	"logo": "https://d1agxr2dqkgkuy.cloudfront.net/img/dl_logo.png",
+    "foundingDate": "2009",
+ "founders":
+ {
+ "@type": "Person",
+ "name": "Mark Frischmuth"
+ },
+	"url": "http://democracylab.org",
+	"sameAs": ["https://twitter.com/DemocracyLab","https://www.linkedin.com/company/7973689","https://www.facebook.com/democracylaborg"],
+	"address": {
+		"@type": "PostalAddress",
+		"addressLocality": "Seattle",
+		"addressCountry": "USA"
+	}
+}
+</script>
+<!-- Hotjar Tracking Code for www.democracylab.org -->
+<script>
+      (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:1097784,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+      })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+    </script><script async="" src="https://static.hotjar.com/c/hotjar-1097784.js?sv=6"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-2879129-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-2879129-4');
+  
+  gtag('config', 'AW-736663510');
+  
+</script>
+<script async="" charset="utf-8" src="https://script.hotjar.com/modules.a1fbf755044ca8f629ba.js"></script><style type="text/css">iframe#_hjRemoteVarsFrame {display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;}</style><style data-emotion=""></style><style data-jss="" data-meta="MuiSvgIcon">
+.jss10 {
+  fill: currentColor;
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  font-size: 24px;
+  transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  user-select: none;
+  flex-shrink: 0;
+}
+.jss11 {
+  color: #3f51b5;
+}
+.jss12 {
+  color: #f50057;
+}
+.jss13 {
+  color: rgba(0, 0, 0, 0.54);
+}
+.jss14 {
+  color: #f44336;
+}
+.jss15 {
+  color: rgba(0, 0, 0, 0.26);
+}
+.jss16 {
+  font-size: inherit;
+}
+.jss17 {
+  font-size: 20px;
+}
+.jss18 {
+  font-size: 35px;
+}
+</style><style data-jss="" data-meta="MuiTouchRipple">
+.jss33 {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: block;
+  z-index: 0;
+  position: absolute;
+  overflow: hidden;
+  border-radius: inherit;
+  pointer-events: none;
+}
+.jss34 {
+  top: 0;
+  left: 0;
+  width: 50px;
+  height: 50px;
+  opacity: 0;
+  position: absolute;
+}
+.jss35 {
+  opacity: 0.3;
+  transform: scale(1);
+  animation: mui-ripple-enter 550ms cubic-bezier(0.4, 0, 0.2, 1);
+  animation-name: $mui-ripple-enter;
+}
+.jss36 {
+  animation-duration: 200ms;
+}
+.jss37 {
+  width: 100%;
+  height: 100%;
+  opacity: 1;
+  display: block;
+  border-radius: 50%;
+  background-color: currentColor;
+}
+.jss38 {
+  opacity: 0;
+  animation: mui-ripple-exit 550ms cubic-bezier(0.4, 0, 0.2, 1);
+  animation-name: $mui-ripple-exit;
+}
+.jss39 {
+  top: 0;
+  left: 0;
+  position: absolute;
+  animation: mui-ripple-pulsate 2500ms cubic-bezier(0.4, 0, 0.2, 1) 200ms infinite;
+  animation-name: $mui-ripple-pulsate;
+}
+@-webkit-keyframes mui-ripple-enter {
+  0% {
+    opacity: 0.1;
+    transform: scale(0);
+  }
+  100% {
+    opacity: 0.3;
+    transform: scale(1);
+  }
+}
+@-webkit-keyframes mui-ripple-exit {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+@-webkit-keyframes mui-ripple-pulsate {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(0.92);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+</style><style data-jss="" data-meta="MuiButtonBase">
+.jss7 {
+  color: inherit;
+  border: 0;
+  margin: 0;
+  cursor: pointer;
+  display: inline-flex;
+  outline: none;
+  padding: 0;
+  position: relative;
+  align-items: center;
+  user-select: none;
+  border-radius: 0;
+  vertical-align: middle;
+  justify-content: center;
+  -moz-appearance: none;
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-appearance: none;
+  -webkit-tap-highlight-color: transparent;
+}
+.jss7::-moz-focus-inner {
+  border-style: none;
+}
+.jss7.jss8 {
+  cursor: default;
+  pointer-events: none;
+}
+</style><style data-jss="" data-meta="MuiIconButton">
+.jss1 {
+  flex: 0 0 auto;
+  color: rgba(0, 0, 0, 0.54);
+  padding: 12px;
+  overflow: visible;
+  font-size: 1.5rem;
+  text-align: center;
+  transition: background-color 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  border-radius: 50%;
+}
+.jss1:hover {
+  background-color: rgba(0, 0, 0, 0.08);
+}
+.jss1.jss5 {
+  color: rgba(0, 0, 0, 0.26);
+}
+@media (hover: none) {
+  .jss1:hover {
+    background-color: transparent;
+  }
+}
+.jss1:hover.jss5 {
+  background-color: transparent;
+}
+.jss2 {
+  color: inherit;
+}
+.jss3 {
+  color: #3f51b5;
+}
+.jss3:hover {
+  background-color: rgba(63, 81, 181, 0.08);
+}
+@media (hover: none) {
+  .jss3:hover {
+    background-color: transparent;
+  }
+}
+.jss4 {
+  color: #f50057;
+}
+.jss4:hover {
+  background-color: rgba(245, 0, 87, 0.08);
+}
+@media (hover: none) {
+  .jss4:hover {
+    background-color: transparent;
+  }
+}
+.jss6 {
+  width: 100%;
+  display: flex;
+  align-items: inherit;
+  justify-content: inherit;
+}
+</style><style data-jss="" data-meta="MuiModal">
+.jss31 {
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1300;
+  position: fixed;
+}
+.jss32 {
+  visibility: hidden;
+}
+</style><style data-jss="" data-meta="MuiDrawer">
+.jss20 {
+  flex: 0 0 auto;
+}
+.jss21 {
+  top: 0;
+  flex: 1 0 auto;
+  height: 100%;
+  display: flex;
+  z-index: 1200;
+  outline: none;
+  position: fixed;
+  overflow-y: auto;
+  flex-direction: column;
+  -webkit-overflow-scrolling: touch;
+}
+.jss22 {
+  left: 0;
+  right: auto;
+}
+.jss23 {
+  left: auto;
+  right: 0;
+}
+.jss24 {
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: auto;
+  height: auto;
+  max-height: 100%;
+}
+.jss25 {
+  top: auto;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: auto;
+  max-height: 100%;
+}
+.jss26 {
+  border-right: 1px solid rgba(0, 0, 0, 0.12);
+}
+.jss27 {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+}
+.jss28 {
+  border-left: 1px solid rgba(0, 0, 0, 0.12);
+}
+.jss29 {
+  border-top: 1px solid rgba(0, 0, 0, 0.12);
+}
+</style><style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_dialog_advanced{border-radius:8px;padding:10px}.fb_dialog_content{background:#fff;color:#373737}.fb_dialog_close_icon{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{left:5px;right:auto;top:5px}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent}.fb_dialog_close_icon:active{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{height:100%;left:0;margin:0;overflow:visible;position:absolute;top:-10000px;transform:none;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{background:none;height:auto;min-height:initial;min-width:initial;width:auto}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{clear:both;color:#fff;display:block;font-size:18px;padding-top:20px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .4);bottom:0;left:0;min-height:100%;position:absolute;right:0;top:0;width:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_mobile .fb_dialog_iframe{position:sticky;top:0}.fb_dialog_content .dialog_header{background:linear-gradient(from(#738aba), to(#2c4987));border-bottom:1px solid;border-color:#043b87;box-shadow:white 0 1px 1px -1px inset;color:#fff;font:bold 14px Helvetica, sans-serif;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:linear-gradient(from(#4267B2), to(#2a4887));background-clip:padding-box;border:1px solid #29487d;border-radius:3px;display:inline-block;line-height:18px;margin-top:3px;max-width:85px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{background:none;border:none;color:#fff;font:bold 12px Helvetica, sans-serif;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #4a4a4a;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f5f6f7;border:1px solid #4a4a4a;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);background-position:50% 50%;background-repeat:no-repeat;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}</style><title>DemocracyLab</title><meta content="Optimizing the connection between skilled volunteers and tech-for-good projects" data-react-helmet="true" name="description"/><meta content="website" data-react-helmet="true" property="og:type"/><meta content="DemocracyLab" data-react-helmet="true" property="og:title"/><meta content="Optimizing the connection between skilled volunteers and tech-for-good projects" data-react-helmet="true" property="og:description"/><meta content="https://d1agxr2dqkgkuy.cloudfront.net/img/dl_logo.png" data-react-helmet="true" property="og:image"/><style>._hj-mMo1P__styles__resetStyles * {
+  line-height: normal;
+  font-family: Arial, sans-serif, Tahoma !important;
+  text-transform: initial !important;
+  letter-spacing: normal !important; }
+
+._hj-mMo1P__styles__resetStyles *::before,
+._hj-mMo1P__styles__resetStyles *::after {
+  box-sizing: initial; }
+
+._hj-mMo1P__styles__resetStyles div {
+  height: auto; }
+
+._hj-mMo1P__styles__resetStyles div,
+._hj-mMo1P__styles__resetStyles span,
+._hj-mMo1P__styles__resetStyles p,
+._hj-mMo1P__styles__resetStyles a,
+._hj-mMo1P__styles__resetStyles button {
+  font-weight: normal !important; }
+
+._hj-mMo1P__styles__resetStyles div,
+._hj-mMo1P__styles__resetStyles span,
+._hj-mMo1P__styles__resetStyles p,
+._hj-mMo1P__styles__resetStyles a,
+._hj-mMo1P__styles__resetStyles img,
+._hj-mMo1P__styles__resetStyles strong,
+._hj-mMo1P__styles__resetStyles form,
+._hj-mMo1P__styles__resetStyles label {
+  border: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+  margin: 0;
+  padding: 0;
+  float: none !important; }
+
+._hj-mMo1P__styles__resetStyles span {
+  color: inherit; }
+
+._hj-mMo1P__styles__resetStyles ol,
+._hj-mMo1P__styles__resetStyles ul,
+._hj-mMo1P__styles__resetStyles li {
+  list-style: none !important;
+  margin: 0 !important;
+  padding: 0 !important; }
+
+._hj-mMo1P__styles__resetStyles li:before,
+._hj-mMo1P__styles__resetStyles li:after {
+  content: none !important; }
+
+._hj-mMo1P__styles__resetStyles hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin: 1em 0;
+  padding: 0; }
+
+._hj-mMo1P__styles__resetStyles input[type='submit'],
+._hj-mMo1P__styles__resetStyles input[type='button'],
+._hj-mMo1P__styles__resetStyles button {
+  margin: 0;
+  padding: 0;
+  float: none !important; }
+
+._hj-mMo1P__styles__resetStyles input,
+._hj-mMo1P__styles__resetStyles select,
+._hj-mMo1P__styles__resetStyles a img {
+  vertical-align: middle; }
+
+._hj-10MNR__styles__globalStyles *,
+._hj-10MNR__styles__globalStyles *::before,
+._hj-10MNR__styles__globalStyles *::after {
+  box-sizing: border-box; }
+
+@font-face {
+  font-family: 'hotjar';
+  src: url(https://script.hotjar.com/font-hotjar_5.fdcf0e.eot);
+  src: url(https://script.hotjar.com/font-hotjar_5.fdcf0e.eot#iefix) format("embedded-opentype"), url(https://script.hotjar.com/font-hotjar_5.c9fb91.woff2) format("woff2"), url(https://script.hotjar.com/font-hotjar_5.8598c5.ttf) format("truetype"), url(https://script.hotjar.com/font-hotjar_5.6da396.woff) format("woff"), url(https://script.hotjar.com/font-hotjar_5.a6049d.svg#hotjar) format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@keyframes _hj-CvZ6d__styles__spin {
+  0% {
+    transform: rotate(0deg); }
+  100% {
+    transform: rotate(360deg); } }
+
+@keyframes _hj-19ojv__styles__colors {
+  0% {
+    border-color: #f4364c;
+    border-top-color: transparent; }
+  25% {
+    border-color: #00a2f2;
+    border-top-color: transparent; }
+  50% {
+    border-color: #efb60c;
+    border-top-color: transparent; }
+  75% {
+    border-color: #42ca49;
+    border-top-color: transparent; }
+  100% {
+    border-color: #f4364c;
+    border-top-color: transparent; } }
+
+._hj-10MNR__styles__globalStyles p {
+  color: inherit !important; }
+
+._hj-10MNR__styles__globalStyles a,
+._hj-10MNR__styles__globalStyles a:link,
+._hj-10MNR__styles__globalStyles a:hover,
+._hj-10MNR__styles__globalStyles a:active {
+  color: inherit !important;
+  text-decoration: underline; }
+
+._hj-10MNR__styles__globalStyles ._hj-1EbBs__styles__icon {
+  speak: none !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  overflow-wrap: normal !important;
+  word-break: normal !important;
+  word-wrap: normal !important;
+  white-space: nowrap !important;
+  line-height: normal !important;
+  -webkit-font-smoothing: antialiased !important;
+  -moz-osx-font-smoothing: grayscale !important;
+  vertical-align: middle !important; }
+
+._hj-10MNR__styles__globalStyles ._hj-1EbBs__styles__icon,
+._hj-10MNR__styles__globalStyles ._hj-1EbBs__styles__icon:before,
+._hj-10MNR__styles__globalStyles ._hj-1EbBs__styles__icon:after,
+._hj-10MNR__styles__globalStyles ._hj-1EbBs__styles__icon *,
+._hj-10MNR__styles__globalStyles ._hj-1EbBs__styles__icon *:before,
+._hj-10MNR__styles__globalStyles ._hj-1EbBs__styles__icon *:after {
+  font-family: 'hotjar' !important;
+  display: inline-block !important;
+  direction: ltr !important; }
+
+._hj-10MNR__styles__globalStyles ._hj-1EbBs__styles__icon:before {
+  color: inherit !important; }
+
+._hj-10MNR__styles__globalStyles ._hj-WPdPO__styles__iconX:before {
+  content: '\E803'; }
+
+._hj-10MNR__styles__globalStyles ._hj-2WW4P__styles__iconOk:before {
+  content: '\E804'; }
+
+._hj-10MNR__styles__globalStyles ._hj-34EZP__styles__iconError:before {
+  content: '\E90C'; }
+
+._hj-10MNR__styles__globalStyles ._hj-lAAAw__styles__iconLogo:before {
+  content: '\E806'; }
+
+._hj-10MNR__styles__globalStyles ._hj-FxxIA__styles__surveyIcons {
+  background-repeat: no-repeat;
+  width: 16px;
+  height: 16px;
+  display: inline-block !important;
+  zoom: 1;
+  vertical-align: middle; }
+
+._hj-widget-theme-light ._hj-10MNR__styles__globalStyles ._hj-FxxIA__styles__surveyIcons {
+  background-image: url(https://script.hotjar.com/widget_icons_light.ddcd59.png); }
+
+._hj-widget-theme-dark ._hj-10MNR__styles__globalStyles ._hj-FxxIA__styles__surveyIcons {
+  background-image: url(https://script.hotjar.com/widget_icons_dark.3a8118.png); }
+
+._hj-10MNR__styles__globalStyles ._hj-1oY0c__styles__inputField {
+  font-family: Arial, sans-serif, Tahoma;
+  font-size: 14px;
+  color: #333 !important;
+  padding: 6px !important;
+  text-indent: 0 !important;
+  height: 30px;
+  width: 100%;
+  min-width: 100%;
+  background: white;
+  border: 1px solid !important;
+  outline: none !important;
+  max-width: none !important;
+  float: none;
+  border-radius: 3px; }
+
+._hj-10MNR__styles__globalStyles ._hj-2xXAa__styles__textarea {
+  resize: none;
+  height: 100px; }
+
+._hj-10MNR__styles__globalStyles ._hj-12tLZ__styles__basicButton, ._hj-10MNR__styles__globalStyles ._hj-21tno__styles__primaryButton {
+  cursor: pointer;
+  text-decoration: none;
+  text-transform: capitalize;
+  font-size: 13px;
+  font-weight: bold;
+  padding: 7px 10px;
+  border: 0;
+  outline: 0;
+  display: inline-block;
+  vertical-align: top;
+  width: auto;
+  zoom: 1;
+  transition: all 0.2s ease-in-out;
+  box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.15);
+  border-radius: 3px;
+  color: white; }
+  ._hj-10MNR__styles__globalStyles ._hj-12tLZ__styles__basicButton:hover, ._hj-10MNR__styles__globalStyles ._hj-21tno__styles__primaryButton:hover, ._hj-10MNR__styles__globalStyles ._hj-12tLZ__styles__basicButton:focus, ._hj-10MNR__styles__globalStyles ._hj-21tno__styles__primaryButton:focus, ._hj-10MNR__styles__globalStyles ._hj-12tLZ__styles__basicButton:active, ._hj-10MNR__styles__globalStyles ._hj-21tno__styles__primaryButton:active {
+    background: #00a251; }
+  ._hj-10MNR__styles__globalStyles ._hj-12tLZ__styles__basicButton[disabled], ._hj-10MNR__styles__globalStyles ._hj-21tno__styles__primaryButton[disabled] {
+    cursor: default; }
+
+._hj-10MNR__styles__globalStyles ._hj-21tno__styles__primaryButton {
+  font-size: 13px !important;
+  font-weight: bold !important;
+  padding: 7px 10px !important;
+  border: 0 !important;
+  outline: 0 !important;
+  min-height: initial !important;
+  width: auto !important;
+  min-width: initial !important;
+  background: #00c764 !important; }
+  ._hj-10MNR__styles__globalStyles ._hj-21tno__styles__primaryButton:hover, ._hj-10MNR__styles__globalStyles ._hj-21tno__styles__primaryButton:focus, ._hj-10MNR__styles__globalStyles ._hj-21tno__styles__primaryButton:active {
+    background: #00a251 !important; }
+
+._hj-10MNR__styles__globalStyles ._hj-2VnCa__styles__clearButton {
+  cursor: pointer;
+  text-decoration: underline;
+  font-size: 13px !important;
+  padding: 7px 10px !important;
+  border: 0 !important; }
+  ._hj-10MNR__styles__globalStyles ._hj-2VnCa__styles__clearButton, ._hj-10MNR__styles__globalStyles ._hj-2VnCa__styles__clearButton:hover, ._hj-10MNR__styles__globalStyles ._hj-2VnCa__styles__clearButton:focus, ._hj-10MNR__styles__globalStyles ._hj-2VnCa__styles__clearButton:active {
+    background: transparent !important; }
+
+._hj-10MNR__styles__globalStyles ._hj-29HmU__styles__answersContentWrapper {
+  padding: 0 12px 12px 12px; }
+
+._hj-10MNR__styles__globalStyles ._hj-1KgX2__styles__spinner {
+  border: 1px solid rgba(0, 0, 0, 0.6);
+  border-top-color: transparent !important;
+  border-radius: 50%;
+  transform: rotate(0deg);
+  animation: _hj-CvZ6d__styles__spin 0.4s linear infinite, _hj-19ojv__styles__colors 5.6s ease-in-out infinite; }
+
+._hj-2xXAa__styles__textarea { }
+
+._hj-WPdPO__styles__iconX,
+._hj-2WW4P__styles__iconOk,
+._hj-34EZP__styles__iconError,
+._hj-lAAAw__styles__iconLogo { }
+
+._hj-3v_Mp__styles__rtl,
+._hj-3v_Mp__styles__rtl * {
+  direction: rtl !important; }
+</style><style>._hj-3Qhhk__Notification__container {
+  font-family: "Open Sans", Helvetica, Arial, sans-serif, Tahoma !important;
+  transition-duration: 350ms;
+  opacity: 0;
+  transform: scale(0.9);
+  display: flex;
+  background: #263345;
+  border-radius: 2px;
+  position: fixed;
+  z-index: 2147483646;
+  top: 20px;
+  left: 20px;
+  width: 400px;
+  padding: 25px;
+  box-shadow: "0 2px 4px 0 rgba(0,0,0,.3)"; }
+  ._hj-3Qhhk__Notification__container * {
+    font-family: "Open Sans", Helvetica, Arial, sans-serif, Tahoma !important; }
+
+._hj-ldyOW__Notification__active {
+  opacity: 1;
+  transform: scale(1); }
+
+._hj-3e98A__Notification__status {
+  margin: 0 20px 0 0;
+  border-radius: 50%;
+  min-width: 50px;
+  height: 50px;
+  box-shadow: "0 2px 4px 0 rgba(0,0,0,.3)"; }
+
+._hj-2rMkS__Notification__good {
+  background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGoAAABOCAYAAADIHIO3AAAAAXNSR0IArs4c6QAAB85JREFUeAHtnWmMFEUUgKcQEUFY1IBGVIhG4z9PVBQN8YpHQliEhaAGJYQYr0SNxn/4w6iJASGGoEYURcWAXIIciwZBwOgqkYQfGhPPxINTw+Gqu5Tfa7omvbM7R09Xd9dsdyVv6+g63nvfVE91V/esKuQhFg9orfvS8XXIjci5yNmIhH3Ib8gWZLNS6iBxHpL2AICGIfOQA1ofI6okupMKq5ArktYzs+PhbIU8hRyqDKccOL2ctqdl1oFJGI6DByIr6gMUBKd/op+rktA5c2PILEC+ig7JANNH6O/qzDkyToNx6Kl2IRVh7aPfi+LUPTN9+5C+tDeTDCQT652M0cc4tJgwBXlc3QM4cAi1NhUK+vLqteutoS+l5UzTWplEHtfmgQCkBJbUag9aDedaqyOfUbXx8WoBqYlEKzMpAUgypB7Gn5sklYMSL9QQApBG1VDdZpUW6SwHVYNLgTSYahv5hF9ZQ3XbVS6WDnNQVdwKpEFUEUhpXYieJyrmi4kKoAKQRleolsAh1TefUWXc7EPawExKG9JhVn2dOageQAHpFIrXA+maHg4nXXRABsxBlbg9AOnakkNpZdtk4BxUwP1AGkh2HTNpTKA47SSn33wxUYQQgHR9sTD1hGpHhZF8R/2Rzyg8AaQBRGtJOQTJ+5QsEEiSyvzy3If0IZDGeq5x5o/6E1UuBNReUSnTMwpIJ+ODNQ5C6kSvKQZSpkEFIN0gjnAsPAkk7oZkPAgkZFN8m35m86+eWD+dcTzHzQdQf6TVUUjP5JDwgA9po6OQnrUOyTf4HGK51dIQAV1PQjY4Cuk5K07EwCbkPkSe6tzf1Vh54FDO9/phRHYknQvoJZDWd9W7nu+PONro5yM7zDfwceISOOUU9qDNor7cinEi+DascxTSC5GdhIEjkF31Gah3S/vISkTsAB36IWvrs6Hch9FWuZ4d0TzvS3cUBu6JZqD+nT5Se+LTh7Qmmg22oJT2o+fYgCSLBJxc2nk9ed1OX9MjKxWyAx/SB3ZsqMfuSm303JDmdK+OgSciFp+jNgrr+dJ39xHtl/g2rHYU0jwrFmPkg/EZqLfSf6yrQh8SK1PzAXEp1i/ZgiSvjlg65ZVzkP6FMWJ5eNGHtNJRSPOjQgrePR/PMuKMqB1Wbq/l9chPceq0yvXCHaU/eQ3zPfTHBteCehmNHoqqVRBUc9TOamuv++PQRThXXp8UB0cKAUgTInUUS2P1Ct0+wJ1wHbX74sYhBrNR5T1bHbXPEO3VJ1RuCe67hGgs9+4E9BL0nhimXTJ11auMc78NSKKvBwqDeXdU70/GgNJR1M+UNGPQztIjlfI+pHfRe1KleukcU68x7kxbkMQGc+pL8S6Cllf7t+H4u0WhWgJ1T6De245CWohuViGJTwwo2fpNMciWuF4MgDk+hLK6BCBNLlsptQPqDYa2DknMMaAOpWZbl4H1o2TZ1NOndyn2Mz6kxUCd0tPxdMvUm4w/g9PdsTj0MN9RrMQKf+GAfnEMEr5P9SNt5Hvra9PWh/QWOk41Ze7EHqTpcUESO70ZxQDyoF+bO4brkeiyHTjezCEWPRc5ConvykKskOi/ELyO+Yi8K89bo4r3UOQSIF1G5kzyNS82qJ9QUO8w0L1xziRjSPA66iwKf8Ahjpz+jIquxorrt8I9QEpkIWYWEwUG/JWB+aLOQ3UPKG5XJQdJ9CnOKMlwmpHV1i5SwyWfh548oJZSOjWpmWQ0KM4oKWBwuTtxF6lEprNRonFitUz8kzQk8U8XUFKAEluIWkj9K/k8GA+o5aRkJnWYkiTjLqe+4MCcBm8mv5LToDNPFAX1SzatVjDe5LQgia1lQclBYMmLxvIG3hDJZzOoVdgtd/j/S9P+iqBEMWDJD1LwZkHcm4ppuqHc2Go1RyalDUm0qwpKKgHrAiIuiL073VKUgaDWYOSdLkASZ3dbTPREAGW/o3wMXL/t6XjvK1O8JlqY6Aok8W9NM8qAYGYNJd3KzLrElPW+WPGaaGECkJxa9dY0owwMlN9Leix8t5uy3hUrfgTEO905BUl8HAqUNAAW2yGFW0ixwOhNQW3AGtla+cdFq0KDEiMw5ijROFLvu2hUeJ28D52zkMSeukBJQ2DJ6YH9IvW65Bs3qE3oPh572l22oW5QYhTGyT3BGaRedNnI8ropLjkK41yHJPpHAiUdYKRGHiM1S/KNE9TH6NoQkMSnoZbn1SCwfH+EOnNZvlvtt9q44Y+rzbS5gw/Y3+HbptPCukOBNQ1TFgJLnr1zMHhP5wokWRA1TLAOSiwHVjORPLTv2La+t4Vze6NBEp/GAko6BpZj2yRqK2oJpCOiX6OF2ECJI4A1msiBbRK1DT1uA9Jh0asRQ6ygxCHASnmbxLvddWsjQxI/xg7Kh5XSNonawfgCyZFHtsUbjgdmlrxt/01yr27qHYw3yHG3uKkejhuK8H+Ryr3ja6tcf8Y4g930QoNohQPld5V4j9cWlNJ+9Oc5JEsfBhw5AInhl770F/TbZEnNvBvxAA6V3ylaam9m6Tb6y/DTUjF+rnBsH2RBdFgyO/OZFCOq413j5CeQo/UB07Np6+h9xdhdl/wAOHsEsgzpqA2Y/FBinP8MMnkfVBoxkQveSgqUHsP58usxLYjcKzwfGYnIbvJB5HukFVnHRexu4syE/wEDavfJf4zW9AAAAABJRU5ErkJggg==") no-repeat 52% 53% #3acc40;
+  background-size: 25px 18px; }
+
+._hj-38oE1__Notification__bad {
+  background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAB4CAYAAADsduKfAAAAAXNSR0IArs4c6QAABEZJREFUaAXtWt9vDUEU7q2iQjVtpEFDECqER31AIoKQePEm4qEvnohI/waJRLz5IzzwJqVJk4YI6YsIFVGiqVaFVlDakP7g+r65O9vd7uze2d05bTR7ku/O7OyZ891z5szsr6mpWSQp2fCUy+U66B0AtgAtwGpgDPgMDJRKpVGU2QUE7cBtYAKIk7848Ri4CKxMxYYOG4A7QFrpQ4dtVmRQbAPepWUI6I+jvjGRDAqbgbFAp6zVe7FEsLgCeJjVsqHf6SBZbeDgAupHAsd5q7Tni0pv/BuWA0CbfyZ/ZRYmWpH6X2hKe3QSdZcktM1UP8oKRRMdqxw6/z2oLWqiw7rBcekT6TH6BYI1jklobhJjtJ6VWiRCPUoJEtpvgP0mVhi6ZlYEZSttk2idIAlNt/KHRH9YEZS1tE0iTixJYQ4oohlJFthWiUaPmNqSwqux8ui3JAtsK0dqMaE4RnOCZD9pm6GjTFYKkV9le1kRLU3oFKvICHnjr8doQoiEZkPJ8EOIaBrTR6080h7500YTSXn0TUdKE33XDY5LPnEokSYaX3ZEkdD5g6ZddVQuXeik0jvskXfx8yeXo7DRTGSM2Cgxl8IekQXimmgGkfIXaz1hJYh8b2i8IGIUbMXPOHYoQmcbNuoVoUsTrZBubOhcXpPKoFSvZjR1ML1dXiomvCuC5pmfR44vFaF1jmxBj3jsagUPjY8k0aJ5tGhEReiYL5mkCF2msPFxMrKcSawMkTnEv/tfE0UyzuSRfwubaXQqnaqHzrtU5CWz8oj/aSSHN+z60dR/YTJQZ9ikmKLN+GFxSYlep/j3C1V5U/JmYSOPTR71mxQt24aRUMZXciailzDKf5ZFnsd1ihB561RWrx5YE3mKvXEdqrT3xJ2PeOQpdsV1SGh/hWjwg6S98CsmMASkkcv2DAFNMFxKwfIeuurzTcCEXRUd+VnuiQXZLHSO21mN0YIBfqPrSiD7inMnYrqHmtVXy1CL4QDG2tF8FtgO8FPdB6APuIUEkP4sBJpCiggUESgiUEQgFAHb1XsXenGjCvdkNQN80OI99lOs3i9QZhdcGlYBV4C3QJKM4uRVoDE1GzodAoaANMKL4DlrMih3ANNAVrmOjslDAoUzAHcA5pVrsZ7B8l5gKi9DoP95IxkUugNKLqrcENigydSdKhq4d+uUbnRUtsBOp7alb4l5hyMhfhaq7IBHg2DZIcEEmzsxqQd5N1qHA96vScluGmboGMvkvKdmdlFbSUlEjyRF2SdR6I27AKOyzw1I3OlkfMB1RPqJdugR5VGlcP47BYvPaFUTdTunqBjsRcTmd7shxZsALvOuJbotFQydjlnuG6MEEm5avuuIjM+0m4xEbMTJeqAnJ9kI+qvVIJbII+OjfweQdt83H5pvAOmeztGhEbgJzAHVhE/v+5M8qLrGwUATDOwLYA/qfG/K90V8QdWPFB5GmSj/AFf+LeTG2bgWAAAAAElFTkSuQmCC") no-repeat center center #ea4031;
+  background-size: 6px 30px; }
+
+._hj-1Zxo9__Notification__warning {
+  background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAB4CAYAAADsduKfAAAAAXNSR0IArs4c6QAABEZJREFUaAXtWt9vDUEU7q2iQjVtpEFDECqER31AIoKQePEm4qEvnohI/waJRLz5IzzwJqVJk4YI6YsIFVGiqVaFVlDakP7g+r65O9vd7uze2d05bTR7ku/O7OyZ891z5szsr6mpWSQp2fCUy+U66B0AtgAtwGpgDPgMDJRKpVGU2QUE7cBtYAKIk7848Ri4CKxMxYYOG4A7QFrpQ4dtVmRQbAPepWUI6I+jvjGRDAqbgbFAp6zVe7FEsLgCeJjVsqHf6SBZbeDgAupHAsd5q7Tni0pv/BuWA0CbfyZ/ZRYmWpH6X2hKe3QSdZcktM1UP8oKRRMdqxw6/z2oLWqiw7rBcekT6TH6BYI1jklobhJjtJ6VWiRCPUoJEtpvgP0mVhi6ZlYEZSttk2idIAlNt/KHRH9YEZS1tE0iTixJYQ4oohlJFthWiUaPmNqSwqux8ui3JAtsK0dqMaE4RnOCZD9pm6GjTFYKkV9le1kRLU3oFKvICHnjr8doQoiEZkPJ8EOIaBrTR6080h7500YTSXn0TUdKE33XDY5LPnEokSYaX3ZEkdD5g6ZddVQuXeik0jvskXfx8yeXo7DRTGSM2Cgxl8IekQXimmgGkfIXaz1hJYh8b2i8IGIUbMXPOHYoQmcbNuoVoUsTrZBubOhcXpPKoFSvZjR1ML1dXiomvCuC5pmfR44vFaF1jmxBj3jsagUPjY8k0aJ5tGhEReiYL5mkCF2msPFxMrKcSawMkTnEv/tfE0UyzuSRfwubaXQqnaqHzrtU5CWz8oj/aSSHN+z60dR/YTJQZ9ikmKLN+GFxSYlep/j3C1V5U/JmYSOPTR71mxQt24aRUMZXciailzDKf5ZFnsd1ihB561RWrx5YE3mKvXEdqrT3xJ2PeOQpdsV1SGh/hWjwg6S98CsmMASkkcv2DAFNMFxKwfIeuurzTcCEXRUd+VnuiQXZLHSO21mN0YIBfqPrSiD7inMnYrqHmtVXy1CL4QDG2tF8FtgO8FPdB6APuIUEkP4sBJpCiggUESgiUEQgFAHb1XsXenGjCvdkNQN80OI99lOs3i9QZhdcGlYBV4C3QJKM4uRVoDE1GzodAoaANMKL4DlrMih3ANNAVrmOjslDAoUzAHcA5pVrsZ7B8l5gKi9DoP95IxkUugNKLqrcENigydSdKhq4d+uUbnRUtsBOp7alb4l5hyMhfhaq7IBHg2DZIcEEmzsxqQd5N1qHA96vScluGmboGMvkvKdmdlFbSUlEjyRF2SdR6I27AKOyzw1I3OlkfMB1RPqJdugR5VGlcP47BYvPaFUTdTunqBjsRcTmd7shxZsALvOuJbotFQydjlnuG6MEEm5avuuIjM+0m4xEbMTJeqAnJ9kI+qvVIJbII+OjfweQdt83H5pvAOmeztGhEbgJzAHVhE/v+5M8qLrGwUATDOwLYA/qfG/K90V8QdWPFB5GmSj/AFf+LeTG2bgWAAAAAElFTkSuQmCC") no-repeat center center #f39c11;
+  background-size: 6px 30px; }
+
+._hj-1h3WZ__Notification__content {
+  color: #dedede;
+  font-size: 13px; }
+
+._hj-2KcMV__Notification__title {
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 4px; }
+
+._hj-3-rwN__Notification__close {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  font-size: 22px;
+  color: white;
+  cursor: pointer;
+  line-height: 11px; }
+</style><script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/736663510/?random=1595287756174&amp;cv=9&amp;fst=1595287756174&amp;num=1&amp;bg=ffffff&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;eid=376635471&amp;u_h=900&amp;u_w=1440&amp;u_ah=831&amp;u_aw=1440&amp;u_cd=30&amp;u_his=2&amp;u_tz=-420&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2oa783&amp;sendb=1&amp;ig=1&amp;data=event%3Dgtag.config&amp;frm=0&amp;url=https%3A%2F%2Fwww.democracylab.org%2Findex%2F%3Fsection%3DFindProjects&amp;tiba=DemocracyLab&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script></head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-MBD5H4V" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<script>
+      // Stop prerender.io from caching page until it loads
+      window.prerenderReady = false;
+    </script>
+<script>
+      window.fbAsyncInit = function() {
+        FB.init({
+          appId      : '137258853647008',
+          cookie     : true,
+          xfbml      : true,
+          version    : 'v2.10',
+        });
+        FB.AppEvents.logPageView();
+        window.democracyLabEvents = {'fbLoaded': true};
+        window.dispatchEvent(new Event('fbLoaded'));
+      };
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "https://connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk'));
+    </script>
+<script type="text/javascript">
+      window.DLAB_GLOBAL_CONTEXT =
+        ''
+        ? Object.freeze({
+          userID: '',
+          emailVerified: '' === "True" ? true : false,
+          email: '',
+          firstName: '',
+          lastName: '',
+          userImgUrl: '',
+          isStaff: '' === "True" ? true : false,
+          volunteeringUpForRenewal: '' === "True" ? true : false
+        })
+        : {};
+
+      window.DLAB_PROJECT_ID = '1';
+      window.PROJECT_DESCRIPTION_EXAMPLE_URL = 'https://docs.google.com/document/d/1TToR7oTHomEABxzfNdCCRs5Q-qrT2-sbWo5CR1utioU/edit#heading=h.yoklmpplxegm';
+      window.POSITION_DESCRIPTION_EXAMPLE_URL = 'https://docs.google.com/document/d/142NH4uRblJP6XvKdmW4GiFwoOmVWY6BJfEjGrlSP3Uk/edit';
+      window.STATIC_CDN_URL = 'https://d1agxr2dqkgkuy.cloudfront.net';
+      window.HEADER_ALERT = '&lt;p&gt;Come join us online for the &lt;a href=&quot;https://www.eventbrite.com/e/summer-create-a-thon-tickets-107719048574&quot;&gt;Summer Create-a-thon&lt;/a&gt; on July 18th&lt;/p&gt;';
+      window.SPONSORS_METADATA = '[{&quot;displayName&quot;:&quot;Microsoft&quot;,&quot;url&quot;:&quot;https://www.microsoft.com/en-us/&quot;,&quot;thumbnailUrl&quot;:&quot;https://d1agxr2dqkgkuy.cloudfront.net/img/microsoft_300_transparent.png&quot;,&quot;description&quot;:&quot;We’re on a mission to empower every person and every organization on the planet to achieve more.&quot;,&quot;category&quot;:&quot;Sustaining&quot;},{&quot;displayName&quot;:&quot;Amazon&quot;,&quot;url&quot;:&quot;https://www.aboutamazon.com/our-communities/amazon-in-the-community&quot;,&quot;thumbnailUrl&quot;:&quot;https://d1agxr2dqkgkuy.cloudfront.net/img/amazon_300_transparent.png&quot;,&quot;description&quot;:&quot;At Amazon, we focus on building long-term and innovative programs that will have a lasting, positive impact in communities around the world.&quot;,&quot;category&quot;:&quot;Sustaining&quot;},{&quot;displayName&quot;:&quot;HERE Technologies&quot;,&quot;url&quot;:&quot;https://developer.here.com/events/DemocracyLab&quot;,&quot;thumbnailUrl&quot;:&quot;https://d1agxr2dqkgkuy.cloudfront.net/img/here_200_transparent.png&quot;,&quot;description&quot;:&quot;By building a digital representation of reality entirely built upon location data, we are radically transforming the way the world lives, moves and interacts&quot;,&quot;category&quot;:&quot;Advancing&quot;}]';
+      window.PAYPAL_ENDPOINT = 'https://www.paypal.com/cgi-bin/webscr';
+      window.PAYPAL_PAYEE = 'mark@democracylab.org';
+      window.PRESS_LINKS = '[{&quot;date&quot;:&quot;December 3, 2019&quot;,&quot;href&quot;:&quot;https://democracylab.ghost.io/&quot;,&quot;title&quot;:&quot;Stories from Hack To Give Thanks&quot;,&quot;source&quot;:&quot;DemocracyLab&quot;},{&quot;date&quot;:&quot;August 29, 2019&quot;,&quot;href&quot;:&quot;https://medium.com/democracylab-org/textio-engages-employees-to-accelerate-civic-innovation-5984609a95ce&quot;,&quot;title&quot;:&quot;Textio Engages Employees to Accelerate Civic Innovation&quot;,&quot;source&quot;:&quot;DemocracyLab&quot;},{&quot;date&quot;:&quot;August 19, 2019&quot;,&quot;href&quot;:&quot;https://medium.com/democracylab-org/farestart-pilots-new-approach-to-engage-tech-volunteers-7a12cc978a7&quot;,&quot;title&quot;:&quot;FareStart Pilots New Approach to Engage Tech Volunteers&quot;,&quot;source&quot;:&quot;DemocracyLab&quot;},{&quot;date&quot;:&quot;July 24, 2019&quot;,&quot;href&quot;:&quot;https://www.washingtontechnology.org/techies-guide-to-volunteering-in-seattle-revisited/&quot;,&quot;title&quot;:&quot;Techies&#39; Guide to Volunteering in Seattle (Revisited)&quot;,&quot;source&quot;:&quot;Washington Technology Industry Association&quot;},{&quot;date&quot;:&quot;March 11, 2019&quot;,&quot;href&quot;:&quot;https://www.washingtontechnology.org/the-pulse-of-tech-for-good-in-seattle/&quot;,&quot;title&quot;:&quot;The Pulse of Tech for Good in Seattle&quot;,&quot;source&quot;:&quot;Washington Technology Industry Association&quot;},{&quot;date&quot;:&quot;February 10, 2019&quot;,&quot;href&quot;:&quot;https://www.esal.us/blog/democracylab-empowering-the-civic-tech-movement/&quot;,&quot;title&quot;:&quot;DemocracyLab: Empowering the Civic Tech Movement&quot;,&quot;source&quot;:&quot;Engineers and Scientists Acting Locally&quot;},{&quot;date&quot;:&quot;January 22, 2019&quot;,&quot;href&quot;:&quot;https://givingcompass.org/article/untapped-potential-of-civic-technology/&quot;,&quot;title&quot;:&quot;The Untapped Potential of Civic Technology&quot;,&quot;source&quot;:&quot;Giving Compass&quot;},{&quot;date&quot;:&quot;January 18, 2019&quot;,&quot;href&quot;:&quot;http://techtalk.seattle.gov/2019/01/18/civic-tech-community-tackles-pressing-issues-with-seattles-open-data/&quot;,&quot;title&quot;:&quot;Civic Tech Community Tackles Pressing Issues with Seattle’s Open Data&quot;,&quot;source&quot;:&quot;Seattle IT Tech Talk Blog&quot;},{&quot;date&quot;:&quot;January 9, 2019&quot;,&quot;href&quot;:&quot;https://socrata.com/blog/seattle-hackathon-real-world-impact/&quot;,&quot;title&quot;:&quot;Seattle Hackathon Innovates for ‘Real World Impact’&quot;,&quot;source&quot;:&quot;Socrata Blog&quot;},{&quot;date&quot;:&quot;August 8, 2018&quot;,&quot;href&quot;:&quot;https://www.geekwire.com/2018/can-tech-government-innovate-together-social-good-inside-new-effort-change-tide/&quot;,&quot;title&quot;:&quot;Can tech and government innovate together for social good? Inside a new effort to change the tide&quot;,&quot;source&quot;:&quot;GeekWire&quot;}]';
+      window.GR_SITEKEY = '6LdkB64UAAAAADTd8KLMrShqRXoU251dUThRpjSb';
+      window.SOCIAL_APPS_VISIBILITY = '{&quot;github&quot;: true, &quot;google&quot;: false, &quot;linkedin&quot;: true, &quot;facebook&quot;: true}';
+      window.HERE_CONFIG = '{&quot;autocompleteUrl&quot;:&quot;https://autocomplete.geocoder.ls.hereapi.com/6.2/suggest.json&quot;,&quot;geocodeUrl&quot;:&quot;https://geocoder.ls.hereapi.com/6.2/geocode.json&quot;,&quot;apiKey&quot;:&quot;VthizOyUXk52R3inONk9-BnaTde2fSsz2pWqncLXL8E&quot;}';
+      window.QIQO_IFRAME_URL = '';
+      window.BLOG_URL = 'https://blog.democracylab.org';
+      window.EVENT_URL = 'https://www.democracylab.org/index/?section=AboutEvent&amp;id=3';
+      window.PRIVACY_POLICY_URL = 'https://d1agxr2dqkgkuy.cloudfront.net/documents/2020.06%20DemocracyLab%20Privacy%20Policy.pdf';
+
+      window.DLAB_MESSAGES = [];
+      
+    </script>
+<div class="__react-root" data-elementid="brief_description" data-maxlength="3000" id="MainController"><div class="MainHeader"><div class="AlertHeader-root"><div class="AlertHeader-text"><p>Come join us online for the <a href="https://www.eventbrite.com/e/summer-create-a-thon-tickets-107719048574">Summer Create-a-thon</a> on July 18th</p></div><div class="AlertHeader-close"><i aria-hidden="true" class="fas fa-times fa-lg"></i></div></div><div class="SubHeader-root"><a href="?section=Home"><div class="SubHeader-logo-container"><img class="SubHeader-logo" src="https://d1agxr2dqkgkuy.cloudfront.net/img/dl_logo.png"/></div></a><div class="SubHeader-hamburger"><button class="jss7 jss1" tabindex="0" type="button"><span class="jss6"><svg aria-hidden="true" class="jss10" focusable="false" role="presentation" viewbox="0 0 24 24"><path d="M0 0h24v24H0z" fill="none"></path><path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"></path></svg></span><span class="jss33"></span></button></div><div class="SubHeader-rightContent"><div class="SectionLink-root SectionLink-active"><h3>Find Projects</h3></div><div class="SectionLink-root"><h3>Create Project</h3></div><div class="SectionLink-root"><h3>Find Groups</h3></div><div class="SectionLink-root"><h3>About Us</h3></div><div class="SectionLink-root"><h3>News</h3></div><div class="SectionLink-root"><h3><a href="https://blog.democracylab.org">Blog</a></h3></div><div class="SectionLink-root"><h3><a href="https://www.democracylab.org/index/?section=AboutEvent&amp;id=3">Event</a></h3></div><a class="SubHeader-donate-btn-container" href="/index/?section=Donate"><button class="SubHeader-donate-btn">Donate</button></a><div class="SubHeader-divider-container"><div class="vertical-divider"></div></div><div class="SectionLink-root"><h3>Log In</h3></div></div></div></div><div class="SectionBody" style="padding-top: 89px;"><div class="FlashMessage-root"></div><div class="FindProjectsController-root container"><div class="row"><div class="ProjectFilterContainer-root col-12 col-md-4 col-lg-3 pl-0 pr-0"><div class="ProjectFilterContainer-reset"><button class="btn btn-primary btn-block reset-search-button" disabled="">Clear Filters</button></div><div><div class="ProjectFilterDataContainer-root"><div class="ProjectFilterContainer-category ProjectFilterContainer-collapsed"><div class="ProjectFilterContainer-category-header" id="Issue(s) Addressed"><span>Issue Areas</span><span class="ProjectFilterContainer-showtext"><i class="fas fa-chevron-down"></i></span></div><div class="ProjectFilterContainer-content"><ul class="ProjectFilterContainer-filter-list"><li class="ProjectFilterContainer-list-item"><input id="Issue(s) Addressed-1st-amendment" type="checkbox"/><label for="Issue(s) Addressed-1st-amendment"><span class="ProjectFilterContainer-list-item-name">1st Amendment</span> <span class="ProjectFilterContainer-list-item-count">1</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Issue(s) Addressed-civic-infrastructure" type="checkbox"/><label for="Issue(s) Addressed-civic-infrastructure"><span class="ProjectFilterContainer-list-item-name">Civic Infrastructure</span> <span class="ProjectFilterContainer-list-item-count">17</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Issue(s) Addressed-cultural-issues" type="checkbox"/><label for="Issue(s) Addressed-cultural-issues"><span class="ProjectFilterContainer-list-item-name">Cultural Issues</span> <span class="ProjectFilterContainer-list-item-count">2</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Issue(s) Addressed-economy" type="checkbox"/><label for="Issue(s) Addressed-economy"><span class="ProjectFilterContainer-list-item-name">Economy</span> <span class="ProjectFilterContainer-list-item-count">4</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Issue(s) Addressed-education" type="checkbox"/><label for="Issue(s) Addressed-education"><span class="ProjectFilterContainer-list-item-name">Education</span> <span class="ProjectFilterContainer-list-item-count">11</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Issue(s) Addressed-environment" type="checkbox"/><label for="Issue(s) Addressed-environment"><span class="ProjectFilterContainer-list-item-name">Environment</span> <span class="ProjectFilterContainer-list-item-count">8</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Issue(s) Addressed-health-care" type="checkbox"/><label for="Issue(s) Addressed-health-care"><span class="ProjectFilterContainer-list-item-name">Health Care</span> <span class="ProjectFilterContainer-list-item-count">4</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Issue(s) Addressed-homelessness" type="checkbox"/><label for="Issue(s) Addressed-homelessness"><span class="ProjectFilterContainer-list-item-name">Homelessness</span> <span class="ProjectFilterContainer-list-item-count">6</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Issue(s) Addressed-housing" type="checkbox"/><label for="Issue(s) Addressed-housing"><span class="ProjectFilterContainer-list-item-name">Housing Policies</span> <span class="ProjectFilterContainer-list-item-count">2</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Issue(s) Addressed-immigration" type="checkbox"/><label for="Issue(s) Addressed-immigration"><span class="ProjectFilterContainer-list-item-name">Immigration</span> <span class="ProjectFilterContainer-list-item-count">1</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Issue(s) Addressed-international-issues" type="checkbox"/><label for="Issue(s) Addressed-international-issues"><span class="ProjectFilterContainer-list-item-name">International Issues</span> <span class="ProjectFilterContainer-list-item-count">1</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Issue(s) Addressed-no-specific-issue" type="checkbox"/><label for="Issue(s) Addressed-no-specific-issue"><span class="ProjectFilterContainer-list-item-name">No Specific Issue</span> <span class="ProjectFilterContainer-list-item-count">7</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Issue(s) Addressed-other-issue" type="checkbox"/><label for="Issue(s) Addressed-other-issue"><span class="ProjectFilterContainer-list-item-name">Other Issue</span> <span class="ProjectFilterContainer-list-item-count">7</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Issue(s) Addressed-political-reform" type="checkbox"/><label for="Issue(s) Addressed-political-reform"><span class="ProjectFilterContainer-list-item-name">Political Reform</span> <span class="ProjectFilterContainer-list-item-count">6</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Issue(s) Addressed-public-safety" type="checkbox"/><label for="Issue(s) Addressed-public-safety"><span class="ProjectFilterContainer-list-item-name">Public Safety</span> <span class="ProjectFilterContainer-list-item-count">5</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Issue(s) Addressed-social-justice" type="checkbox"/><label for="Issue(s) Addressed-social-justice"><span class="ProjectFilterContainer-list-item-name">Social Justice</span> <span class="ProjectFilterContainer-list-item-count">5</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Issue(s) Addressed-transportation" type="checkbox"/><label for="Issue(s) Addressed-transportation"><span class="ProjectFilterContainer-list-item-name">Transportation</span> <span class="ProjectFilterContainer-list-item-count">3</span></label></li></ul></div></div><div class="ProjectFilterContainer-category ProjectFilterContainer-collapsed"><div class="ProjectFilterContainer-category-header" id="Role"><span>Skills Needed</span><span class="ProjectFilterContainer-showtext"><i class="fas fa-chevron-down"></i></span></div><div class="ProjectFilterContainer-content"><div class="ProjectFilterContainer-subcategory ProjectFilterContainer-collapsed"><div class="ProjectFilterContainer-subcategory-header" id="Business"><span>Business</span><span class="ProjectFilterContainer-showtext"><i class="fas fa-chevron-down"></i></span></div><div class="ProjectFilterContainer-content"><ul class="ProjectFilterContainer-filter-list"><li class="ProjectFilterContainer-list-item"><input id="Role-business-accounting" type="checkbox"/><label for="Role-business-accounting"><span class="ProjectFilterContainer-list-item-name">Accounting</span> <span class="ProjectFilterContainer-list-item-count">1</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Role-business-fundraising" type="checkbox"/><label for="Role-business-fundraising"><span class="ProjectFilterContainer-list-item-name">Fundraising</span> <span class="ProjectFilterContainer-list-item-count">7</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Role-business-general" type="checkbox"/><label for="Role-business-general"><span class="ProjectFilterContainer-list-item-name">General</span> <span class="ProjectFilterContainer-list-item-count">4</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Role-business-legal" type="checkbox"/><label for="Role-business-legal"><span class="ProjectFilterContainer-list-item-name">Legal</span> <span class="ProjectFilterContainer-list-item-count">1</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Role-business-management" type="checkbox"/><label for="Role-business-management"><span class="ProjectFilterContainer-list-item-name">Management</span> <span class="ProjectFilterContainer-list-item-count">1</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Role-market-research" type="checkbox"/><label for="Role-market-research"><span class="ProjectFilterContainer-list-item-name">Market Research</span> <span class="ProjectFilterContainer-list-item-count">6</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Role-marketing" type="checkbox"/><label for="Role-marketing"><span class="ProjectFilterContainer-list-item-name">Marketing</span> <span class="ProjectFilterContainer-list-item-count">12</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Role-business-operations" type="checkbox"/><label for="Role-business-operations"><span class="ProjectFilterContainer-list-item-name">Operations</span> <span class="ProjectFilterContainer-list-item-count">2</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Role-project-reporter" type="checkbox"/><label for="Role-project-reporter"><span class="ProjectFilterContainer-list-item-name">Storyteller</span> <span class="ProjectFilterContainer-list-item-count">3</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Role-business-strategy" type="checkbox"/><label for="Role-business-strategy"><span class="ProjectFilterContainer-list-item-name">Strategy</span> <span class="ProjectFilterContainer-list-item-count">7</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Role-business-writer" type="checkbox"/><label for="Role-business-writer"><span class="ProjectFilterContainer-list-item-name">Writer</span> <span class="ProjectFilterContainer-list-item-count">4</span></label></li></ul></div></div><div class="ProjectFilterContainer-subcategory ProjectFilterContainer-collapsed"><div class="ProjectFilterContainer-subcategory-header" id="Data"><span>Data</span><span class="ProjectFilterContainer-showtext"><i class="fas fa-chevron-down"></i></span></div><div class="ProjectFilterContainer-content"><ul class="ProjectFilterContainer-filter-list"><li class="ProjectFilterContainer-list-item"><input id="Role-data-analyst" type="checkbox"/><label for="Role-data-analyst"><span class="ProjectFilterContainer-list-item-name">Data Analyst</span> <span class="ProjectFilterContainer-list-item-count">7</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Role-data-architect" type="checkbox"/><label for="Role-data-architect"><span class="ProjectFilterContainer-list-item-name">Data Architect</span> <span class="ProjectFilterContainer-list-item-count">11</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Role-data-quality-assurance" type="checkbox"/><label for="Role-data-quality-assurance"><span class="ProjectFilterContainer-list-item-name">Data Quality Assurance</span> <span class="ProjectFilterContainer-list-item-count">2</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Role-data-security" type="checkbox"/><label for="Role-data-security"><span class="ProjectFilterContainer-list-item-name">Data Security</span> <span class="ProjectFilterContainer-list-item-count">3</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Role-data-visualization-role" type="checkbox"/><label for="Role-data-visualization-role"><span class="ProjectFilterContainer-list-item-name">Data Visualization</span> <span class="ProjectFilterContainer-list-item-count">10</span></label></li></ul></div></div><div class="ProjectFilterContainer-subcategory ProjectFilterContainer-collapsed"><div class="ProjectFilterContainer-subcategory-header" id="Design"><span>Design</span><span class="ProjectFilterContainer-showtext"><i class="fas fa-chevron-down"></i></span></div><div class="ProjectFilterContainer-content"><ul class="ProjectFilterContainer-filter-list"><li class="ProjectFilterContainer-list-item"><input id="Role-creative-director" type="checkbox"/><label for="Role-creative-director"><span class="ProjectFilterContainer-list-item-name">Creative Director</span> <span class="ProjectFilterContainer-list-item-count">2</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Role-graphic-designer" type="checkbox"/><label for="Role-graphic-designer"><span class="ProjectFilterContainer-list-item-name">Graphic Designer</span> <span class="ProjectFilterContainer-list-item-count">9</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Role-ui-designer" type="checkbox"/><label for="Role-ui-designer"><span class="ProjectFilterContainer-list-item-name">UI Designer</span> <span class="ProjectFilterContainer-list-item-count">15</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Role-user-researcher" type="checkbox"/><label for="Role-user-researcher"><span class="ProjectFilterContainer-list-item-name">User Researcher</span> <span class="ProjectFilterContainer-list-item-count">7</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Role-ux-designer" type="checkbox"/><label for="Role-ux-designer"><span class="ProjectFilterContainer-list-item-name">UX Designer</span> <span class="ProjectFilterContainer-list-item-count">28</span></label></li></ul></div></div><div class="ProjectFilterContainer-subcategory ProjectFilterContainer-collapsed"><div class="ProjectFilterContainer-subcategory-header" id="Software Development"><span>Software Development</span><span class="ProjectFilterContainer-showtext"><i class="fas fa-chevron-down"></i></span></div><div class="ProjectFilterContainer-content"><ul class="ProjectFilterContainer-filter-list"><li class="ProjectFilterContainer-list-item"><input id="Role-back-end-developer" type="checkbox"/><label for="Role-back-end-developer"><span class="ProjectFilterContainer-list-item-name">Back-End Developer</span> <span class="ProjectFilterContainer-list-item-count">29</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Role-dev-ops" type="checkbox"/><label for="Role-dev-ops"><span class="ProjectFilterContainer-list-item-name">DevOps</span> <span class="ProjectFilterContainer-list-item-count">5</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Role-front-end-developer" type="checkbox"/><label for="Role-front-end-developer"><span class="ProjectFilterContainer-list-item-name">Front-End Developer</span> <span class="ProjectFilterContainer-list-item-count">29</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Role-full-stack-developer" type="checkbox"/><label for="Role-full-stack-developer"><span class="ProjectFilterContainer-list-item-name">Full Stack Developer</span> <span class="ProjectFilterContainer-list-item-count">29</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Role-product-manager" type="checkbox"/><label for="Role-product-manager"><span class="ProjectFilterContainer-list-item-name">Product Manager</span> <span class="ProjectFilterContainer-list-item-count">4</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Role-project-manager" type="checkbox"/><label for="Role-project-manager"><span class="ProjectFilterContainer-list-item-name">Project Manager</span> <span class="ProjectFilterContainer-list-item-count">4</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Role-team-mentor" type="checkbox"/><label for="Role-team-mentor"><span class="ProjectFilterContainer-list-item-name">Team Mentor</span> <span class="ProjectFilterContainer-list-item-count">1</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Role-technical-lead" type="checkbox"/><label for="Role-technical-lead"><span class="ProjectFilterContainer-list-item-name">Technical Lead</span> <span class="ProjectFilterContainer-list-item-count">11</span></label></li></ul></div></div><div class="ProjectFilterContainer-subcategory ProjectFilterContainer-collapsed"><div class="ProjectFilterContainer-subcategory-header" id="Subject Matter Expert"><span>Subject Matter Expert</span><span class="ProjectFilterContainer-showtext"><i class="fas fa-chevron-down"></i></span></div><div class="ProjectFilterContainer-content"><ul class="ProjectFilterContainer-filter-list"><li class="ProjectFilterContainer-list-item"><input id="Role-sme-civic-infrastructure" type="checkbox"/><label for="Role-sme-civic-infrastructure"><span class="ProjectFilterContainer-list-item-name">Civic Infrastructure</span> <span class="ProjectFilterContainer-list-item-count">3</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Role-sme-cultural-issues" type="checkbox"/><label for="Role-sme-cultural-issues"><span class="ProjectFilterContainer-list-item-name">Cultural Issues</span> <span class="ProjectFilterContainer-list-item-count">1</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Role-sme-economy" type="checkbox"/><label for="Role-sme-economy"><span class="ProjectFilterContainer-list-item-name">Economy</span> <span class="ProjectFilterContainer-list-item-count">2</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Role-sme-education" type="checkbox"/><label for="Role-sme-education"><span class="ProjectFilterContainer-list-item-name">Education</span> <span class="ProjectFilterContainer-list-item-count">2</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Role-sme-environment" type="checkbox"/><label for="Role-sme-environment"><span class="ProjectFilterContainer-list-item-name">Environment</span> <span class="ProjectFilterContainer-list-item-count">3</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Role-sme-health-care" type="checkbox"/><label for="Role-sme-health-care"><span class="ProjectFilterContainer-list-item-name">Health Care</span> <span class="ProjectFilterContainer-list-item-count">1</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Role-sme-homelessness" type="checkbox"/><label for="Role-sme-homelessness"><span class="ProjectFilterContainer-list-item-name">Homelessness</span> <span class="ProjectFilterContainer-list-item-count">1</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Role-sme-housing" type="checkbox"/><label for="Role-sme-housing"><span class="ProjectFilterContainer-list-item-name">Housing Policies</span> <span class="ProjectFilterContainer-list-item-count">1</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Role-sme-other-issue" type="checkbox"/><label for="Role-sme-other-issue"><span class="ProjectFilterContainer-list-item-name">Other Issue</span> <span class="ProjectFilterContainer-list-item-count">2</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Role-sme-political-reform" type="checkbox"/><label for="Role-sme-political-reform"><span class="ProjectFilterContainer-list-item-name">Political Reform</span> <span class="ProjectFilterContainer-list-item-count">1</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Role-sme-social-justice" type="checkbox"/><label for="Role-sme-social-justice"><span class="ProjectFilterContainer-list-item-name">Social Justice</span> <span class="ProjectFilterContainer-list-item-count">1</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Role-sme-transportation" type="checkbox"/><label for="Role-sme-transportation"><span class="ProjectFilterContainer-list-item-name">Transportation</span> <span class="ProjectFilterContainer-list-item-count">2</span></label></li></ul></div></div><div class="ProjectFilterContainer-subcategory ProjectFilterContainer-collapsed"><div class="ProjectFilterContainer-subcategory-header" id="Testing"><span>Testing</span><span class="ProjectFilterContainer-showtext"><i class="fas fa-chevron-down"></i></span></div><div class="ProjectFilterContainer-content"><ul class="ProjectFilterContainer-filter-list"><li class="ProjectFilterContainer-list-item"><input id="Role-test-engineer" type="checkbox"/><label for="Role-test-engineer"><span class="ProjectFilterContainer-list-item-name">Test Engineer</span> <span class="ProjectFilterContainer-list-item-count">4</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Role-test-user" type="checkbox"/><label for="Role-test-user"><span class="ProjectFilterContainer-list-item-name">Test User</span> <span class="ProjectFilterContainer-list-item-count">5</span></label></li></ul></div></div></div></div><div class="ProjectFilterContainer-category ProjectFilterContainer-collapsed"><div class="ProjectFilterContainer-category-header" id="Technologies Used"><span>Technologies Used</span><span class="ProjectFilterContainer-showtext"><i class="fas fa-chevron-down"></i></span></div><div class="ProjectFilterContainer-content"><div class="ProjectFilterContainer-subcategory ProjectFilterContainer-collapsed"><div class="ProjectFilterContainer-subcategory-header" id="CMS"><span>CMS</span><span class="ProjectFilterContainer-showtext"><i class="fas fa-chevron-down"></i></span></div><div class="ProjectFilterContainer-content"><ul class="ProjectFilterContainer-filter-list"><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-drupal" type="checkbox"/><label for="Technologies Used-drupal"><span class="ProjectFilterContainer-list-item-name">Drupal</span> <span class="ProjectFilterContainer-list-item-count">3</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-keystone-js" type="checkbox"/><label for="Technologies Used-keystone-js"><span class="ProjectFilterContainer-list-item-name">Keystone.js</span> <span class="ProjectFilterContainer-list-item-count">1</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-wordpress" type="checkbox"/><label for="Technologies Used-wordpress"><span class="ProjectFilterContainer-list-item-name">Wordpress</span> <span class="ProjectFilterContainer-list-item-count">9</span></label></li></ul></div></div><div class="ProjectFilterContainer-subcategory ProjectFilterContainer-collapsed"><div class="ProjectFilterContainer-subcategory-header" id="CRM"><span>CRM</span><span class="ProjectFilterContainer-showtext"><i class="fas fa-chevron-down"></i></span></div><div class="ProjectFilterContainer-content"><ul class="ProjectFilterContainer-filter-list"><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-hubspot-crm" type="checkbox"/><label for="Technologies Used-hubspot-crm"><span class="ProjectFilterContainer-list-item-name"> Hubspot</span> <span class="ProjectFilterContainer-list-item-count">1</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-salesforce-crm" type="checkbox"/><label for="Technologies Used-salesforce-crm"><span class="ProjectFilterContainer-list-item-name">Salesforce</span> <span class="ProjectFilterContainer-list-item-count">1</span></label></li></ul></div></div><div class="ProjectFilterContainer-subcategory ProjectFilterContainer-collapsed"><div class="ProjectFilterContainer-subcategory-header" id="Database"><span>Database</span><span class="ProjectFilterContainer-showtext"><i class="fas fa-chevron-down"></i></span></div><div class="ProjectFilterContainer-content"><ul class="ProjectFilterContainer-filter-list"><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-amazon-dynamodb" type="checkbox"/><label for="Technologies Used-amazon-dynamodb"><span class="ProjectFilterContainer-list-item-name">Amazon DynamoDB</span> <span class="ProjectFilterContainer-list-item-count">1</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-mongo-db" type="checkbox"/><label for="Technologies Used-mongo-db"><span class="ProjectFilterContainer-list-item-name">MongoDB</span> <span class="ProjectFilterContainer-list-item-count">11</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-my-sql" type="checkbox"/><label for="Technologies Used-my-sql"><span class="ProjectFilterContainer-list-item-name">MySQL</span> <span class="ProjectFilterContainer-list-item-count">10</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-postgre-sql" type="checkbox"/><label for="Technologies Used-postgre-sql"><span class="ProjectFilterContainer-list-item-name">PostgreSQL</span> <span class="ProjectFilterContainer-list-item-count">11</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-ms-sql-server" type="checkbox"/><label for="Technologies Used-ms-sql-server"><span class="ProjectFilterContainer-list-item-name">SQL Server</span> <span class="ProjectFilterContainer-list-item-count">3</span></label></li></ul></div></div><div class="ProjectFilterContainer-subcategory ProjectFilterContainer-collapsed"><div class="ProjectFilterContainer-subcategory-header" id="Design"><span>Design</span><span class="ProjectFilterContainer-showtext"><i class="fas fa-chevron-down"></i></span></div><div class="ProjectFilterContainer-content"><ul class="ProjectFilterContainer-filter-list"><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-adobe-creative-suite" type="checkbox"/><label for="Technologies Used-adobe-creative-suite"><span class="ProjectFilterContainer-list-item-name">Adobe Creative Suite</span> <span class="ProjectFilterContainer-list-item-count">1</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-adobe-xd" type="checkbox"/><label for="Technologies Used-adobe-xd"><span class="ProjectFilterContainer-list-item-name">Adobe XD</span> <span class="ProjectFilterContainer-list-item-count">4</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-axure" type="checkbox"/><label for="Technologies Used-axure"><span class="ProjectFilterContainer-list-item-name">Axure</span> <span class="ProjectFilterContainer-list-item-count">1</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-balsamiq" type="checkbox"/><label for="Technologies Used-balsamiq"><span class="ProjectFilterContainer-list-item-name">Balsamiq</span> <span class="ProjectFilterContainer-list-item-count">2</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-figma" type="checkbox"/><label for="Technologies Used-figma"><span class="ProjectFilterContainer-list-item-name">Figma</span> <span class="ProjectFilterContainer-list-item-count">8</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-invision" type="checkbox"/><label for="Technologies Used-invision"><span class="ProjectFilterContainer-list-item-name">InVision</span> <span class="ProjectFilterContainer-list-item-count">1</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-sketch" type="checkbox"/><label for="Technologies Used-sketch"><span class="ProjectFilterContainer-list-item-name">Sketch</span> <span class="ProjectFilterContainer-list-item-count">1</span></label></li></ul></div></div><div class="ProjectFilterContainer-subcategory ProjectFilterContainer-collapsed"><div class="ProjectFilterContainer-subcategory-header" id="Platform"><span>Platform</span><span class="ProjectFilterContainer-showtext"><i class="fas fa-chevron-down"></i></span></div><div class="ProjectFilterContainer-content"><ul class="ProjectFilterContainer-filter-list"><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-android" type="checkbox"/><label for="Technologies Used-android"><span class="ProjectFilterContainer-list-item-name">Android</span> <span class="ProjectFilterContainer-list-item-count">7</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-arduino" type="checkbox"/><label for="Technologies Used-arduino"><span class="ProjectFilterContainer-list-item-name">Arduino</span> <span class="ProjectFilterContainer-list-item-count">1</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-ios" type="checkbox"/><label for="Technologies Used-ios"><span class="ProjectFilterContainer-list-item-name">iOS</span> <span class="ProjectFilterContainer-list-item-count">7</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-web" type="checkbox"/><label for="Technologies Used-web"><span class="ProjectFilterContainer-list-item-name">Web</span> <span class="ProjectFilterContainer-list-item-count">21</span></label></li></ul></div></div><div class="ProjectFilterContainer-subcategory ProjectFilterContainer-collapsed"><div class="ProjectFilterContainer-subcategory-header" id="Programming Language"><span>Programming Language</span><span class="ProjectFilterContainer-showtext"><i class="fas fa-chevron-down"></i></span></div><div class="ProjectFilterContainer-content"><ul class="ProjectFilterContainer-filter-list"><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-c" type="checkbox"/><label for="Technologies Used-c"><span class="ProjectFilterContainer-list-item-name">C</span> <span class="ProjectFilterContainer-list-item-count">1</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-c-sharp" type="checkbox"/><label for="Technologies Used-c-sharp"><span class="ProjectFilterContainer-list-item-name">C#</span> <span class="ProjectFilterContainer-list-item-count">3</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-c-plusplus" type="checkbox"/><label for="Technologies Used-c-plusplus"><span class="ProjectFilterContainer-list-item-name">C++</span> <span class="ProjectFilterContainer-list-item-count">2</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-go" type="checkbox"/><label for="Technologies Used-go"><span class="ProjectFilterContainer-list-item-name">Go</span> <span class="ProjectFilterContainer-list-item-count">1</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-html" type="checkbox"/><label for="Technologies Used-html"><span class="ProjectFilterContainer-list-item-name">HTML</span> <span class="ProjectFilterContainer-list-item-count">10</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-java" type="checkbox"/><label for="Technologies Used-java"><span class="ProjectFilterContainer-list-item-name">Java</span> <span class="ProjectFilterContainer-list-item-count">1</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-javascript" type="checkbox"/><label for="Technologies Used-javascript"><span class="ProjectFilterContainer-list-item-name">JavaScript</span> <span class="ProjectFilterContainer-list-item-count">38</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-matlab" type="checkbox"/><label for="Technologies Used-matlab"><span class="ProjectFilterContainer-list-item-name">Matlab</span> <span class="ProjectFilterContainer-list-item-count">1</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-php" type="checkbox"/><label for="Technologies Used-php"><span class="ProjectFilterContainer-list-item-name">PHP</span> <span class="ProjectFilterContainer-list-item-count">6</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-python" type="checkbox"/><label for="Technologies Used-python"><span class="ProjectFilterContainer-list-item-name">Python</span> <span class="ProjectFilterContainer-list-item-count">23</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-r" type="checkbox"/><label for="Technologies Used-r"><span class="ProjectFilterContainer-list-item-name">R</span> <span class="ProjectFilterContainer-list-item-count">2</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-ruby" type="checkbox"/><label for="Technologies Used-ruby"><span class="ProjectFilterContainer-list-item-name">Ruby</span> <span class="ProjectFilterContainer-list-item-count">4</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-rust" type="checkbox"/><label for="Technologies Used-rust"><span class="ProjectFilterContainer-list-item-name">Rust</span> <span class="ProjectFilterContainer-list-item-count">1</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-scala" type="checkbox"/><label for="Technologies Used-scala"><span class="ProjectFilterContainer-list-item-name">Scala</span> <span class="ProjectFilterContainer-list-item-count">1</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-shell" type="checkbox"/><label for="Technologies Used-shell"><span class="ProjectFilterContainer-list-item-name">Shell</span> <span class="ProjectFilterContainer-list-item-count">1</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-sql" type="checkbox"/><label for="Technologies Used-sql"><span class="ProjectFilterContainer-list-item-name">SQL</span> <span class="ProjectFilterContainer-list-item-count">4</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-typescript" type="checkbox"/><label for="Technologies Used-typescript"><span class="ProjectFilterContainer-list-item-name">TypeScript</span> <span class="ProjectFilterContainer-list-item-count">2</span></label></li></ul></div></div><div class="ProjectFilterContainer-subcategory ProjectFilterContainer-collapsed"><div class="ProjectFilterContainer-subcategory-header" id="Web Framework"><span>Web Framework</span><span class="ProjectFilterContainer-showtext"><i class="fas fa-chevron-down"></i></span></div><div class="ProjectFilterContainer-content"><ul class="ProjectFilterContainer-filter-list"><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-angular" type="checkbox"/><label for="Technologies Used-angular"><span class="ProjectFilterContainer-list-item-name">Angular</span> <span class="ProjectFilterContainer-list-item-count">1</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-angular-js" type="checkbox"/><label for="Technologies Used-angular-js"><span class="ProjectFilterContainer-list-item-name">AngularJS</span> <span class="ProjectFilterContainer-list-item-count">2</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-asp-net" type="checkbox"/><label for="Technologies Used-asp-net"><span class="ProjectFilterContainer-list-item-name">ASP.NET</span> <span class="ProjectFilterContainer-list-item-count">2</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-asp-net-mvc" type="checkbox"/><label for="Technologies Used-asp-net-mvc"><span class="ProjectFilterContainer-list-item-name">ASP.NET MVC</span> <span class="ProjectFilterContainer-list-item-count">2</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-django" type="checkbox"/><label for="Technologies Used-django"><span class="ProjectFilterContainer-list-item-name">Django</span> <span class="ProjectFilterContainer-list-item-count">4</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-ember-js" type="checkbox"/><label for="Technologies Used-ember-js"><span class="ProjectFilterContainer-list-item-name">Ember.js</span> <span class="ProjectFilterContainer-list-item-count">1</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-express" type="checkbox"/><label for="Technologies Used-express"><span class="ProjectFilterContainer-list-item-name">Express</span> <span class="ProjectFilterContainer-list-item-count">4</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-flask" type="checkbox"/><label for="Technologies Used-flask"><span class="ProjectFilterContainer-list-item-name">Flask</span> <span class="ProjectFilterContainer-list-item-count">3</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-laravel" type="checkbox"/><label for="Technologies Used-laravel"><span class="ProjectFilterContainer-list-item-name">Laravel</span> <span class="ProjectFilterContainer-list-item-count">1</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-node-js" type="checkbox"/><label for="Technologies Used-node-js"><span class="ProjectFilterContainer-list-item-name">Node.js</span> <span class="ProjectFilterContainer-list-item-count">10</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-react" type="checkbox"/><label for="Technologies Used-react"><span class="ProjectFilterContainer-list-item-name">React</span> <span class="ProjectFilterContainer-list-item-count">22</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-ruby-on-rails" type="checkbox"/><label for="Technologies Used-ruby-on-rails"><span class="ProjectFilterContainer-list-item-name">Ruby on Rails</span> <span class="ProjectFilterContainer-list-item-count">6</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-spring-mvc" type="checkbox"/><label for="Technologies Used-spring-mvc"><span class="ProjectFilterContainer-list-item-name">Spring MVC</span> <span class="ProjectFilterContainer-list-item-count">1</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Technologies Used-vue-js" type="checkbox"/><label for="Technologies Used-vue-js"><span class="ProjectFilterContainer-list-item-name">Vue.js</span> <span class="ProjectFilterContainer-list-item-count">5</span></label></li></ul></div></div></div></div><div class="ProjectFilterContainer-category ProjectFilterContainer-collapsed"><div class="ProjectFilterContainer-category-header" id="Project Stage"><span>Project Stage</span><span class="ProjectFilterContainer-showtext"><i class="fas fa-chevron-down"></i></span></div><div class="ProjectFilterContainer-content"><ul class="ProjectFilterContainer-filter-list"><li class="ProjectFilterContainer-list-item"><input id="Project Stage-ideation-stage" type="checkbox"/><label for="Project Stage-ideation-stage"><span class="ProjectFilterContainer-list-item-name">1 - Ideation</span> <span class="ProjectFilterContainer-list-item-count">5</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Project Stage-research-stage" type="checkbox"/><label for="Project Stage-research-stage"><span class="ProjectFilterContainer-list-item-name">2 - Research</span> <span class="ProjectFilterContainer-list-item-count">5</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Project Stage-design-stage" type="checkbox"/><label for="Project Stage-design-stage"><span class="ProjectFilterContainer-list-item-name">3 - Design</span> <span class="ProjectFilterContainer-list-item-count">13</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Project Stage-development-stage" type="checkbox"/><label for="Project Stage-development-stage"><span class="ProjectFilterContainer-list-item-name">4 - Development</span> <span class="ProjectFilterContainer-list-item-count">28</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Project Stage-mvp-stage" type="checkbox"/><label for="Project Stage-mvp-stage"><span class="ProjectFilterContainer-list-item-name">5 - MVP</span> <span class="ProjectFilterContainer-list-item-count">15</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Project Stage-active-stage" type="checkbox"/><label for="Project Stage-active-stage"><span class="ProjectFilterContainer-list-item-name">6 - Active</span> <span class="ProjectFilterContainer-list-item-count">22</span></label></li></ul></div></div><div class="ProjectFilterContainer-category ProjectFilterContainer-collapsed"><div class="ProjectFilterContainer-category-header" id="Organization"><span>Events &amp; Groups</span><span class="ProjectFilterContainer-showtext"><i class="fas fa-chevron-down"></i></span></div><div class="ProjectFilterContainer-content"><ul class="ProjectFilterContainer-filter-list"><li class="ProjectFilterContainer-list-item"><input id="Organization-hack-for-your-mother-2019" type="checkbox"/><label for="Organization-hack-for-your-mother-2019"><span class="ProjectFilterContainer-list-item-name">Hack for Your Mother 2019</span> <span class="ProjectFilterContainer-list-item-count">14</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Organization-hack-for-your-mother-2020" type="checkbox"/><label for="Organization-hack-for-your-mother-2020"><span class="ProjectFilterContainer-list-item-name">Hack for Your Mother 2020</span> <span class="ProjectFilterContainer-list-item-count">16</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Organization-hack-to-give-thanks-2018" type="checkbox"/><label for="Organization-hack-to-give-thanks-2018"><span class="ProjectFilterContainer-list-item-name">Hack to Give Thanks 2018</span> <span class="ProjectFilterContainer-list-item-count">10</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Organization-hack-to-give-thanks-2019" type="checkbox"/><label for="Organization-hack-to-give-thanks-2019"><span class="ProjectFilterContainer-list-item-name">Hack to Give Thanks 2019</span> <span class="ProjectFilterContainer-list-item-count">18</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Organization-hacky-new-year-2019" type="checkbox"/><label for="Organization-hacky-new-year-2019"><span class="ProjectFilterContainer-list-item-name">Hacky New Year 2019</span> <span class="ProjectFilterContainer-list-item-count">11</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Organization-hacky-new-year-2020" type="checkbox"/><label for="Organization-hacky-new-year-2020"><span class="ProjectFilterContainer-list-item-name">Hacky New Year 2020</span> <span class="ProjectFilterContainer-list-item-count">16</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Organization-uw-impact-plus" type="checkbox"/><label for="Organization-uw-impact-plus"><span class="ProjectFilterContainer-list-item-name">Impact++</span> <span class="ProjectFilterContainer-list-item-count">2</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Organization-seattle-day-of-civic-hacking" type="checkbox"/><label for="Organization-seattle-day-of-civic-hacking"><span class="ProjectFilterContainer-list-item-name">National Day of Civic Hacking 2018</span> <span class="ProjectFilterContainer-list-item-count">18</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Organization-seattle-day-of-civic-hacking-19" type="checkbox"/><label for="Organization-seattle-day-of-civic-hacking-19"><span class="ProjectFilterContainer-list-item-name">National Day of Civic Hacking 2019</span> <span class="ProjectFilterContainer-list-item-count">14</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Organization-open-eugene" type="checkbox"/><label for="Organization-open-eugene"><span class="ProjectFilterContainer-list-item-name">Open Eugene</span> <span class="ProjectFilterContainer-list-item-count">1</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Organization-open-seattle" type="checkbox"/><label for="Organization-open-seattle"><span class="ProjectFilterContainer-list-item-name">Open Seattle</span> <span class="ProjectFilterContainer-list-item-count">8</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Organization-seattle-data-for-good" type="checkbox"/><label for="Organization-seattle-data-for-good"><span class="ProjectFilterContainer-list-item-name">Seattle Data for Good</span> <span class="ProjectFilterContainer-list-item-count">7</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Organization-seattle-tech-for-good" type="checkbox"/><label for="Organization-seattle-tech-for-good"><span class="ProjectFilterContainer-list-item-name">Seattle Tech For Good</span> <span class="ProjectFilterContainer-list-item-count">9</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Organization-st-hack-tricks-day-2019" type="checkbox"/><label for="Organization-st-hack-tricks-day-2019"><span class="ProjectFilterContainer-list-item-name">St. Hack-trick's Day 2019</span> <span class="ProjectFilterContainer-list-item-count">10</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Organization-st-hack-tricks-day-2020" type="checkbox"/><label for="Organization-st-hack-tricks-day-2020"><span class="ProjectFilterContainer-list-item-name">St. Hack-trick's Day 2020</span> <span class="ProjectFilterContainer-list-item-count">13</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Organization-summer-create-a-thon-2020" type="checkbox"/><label for="Organization-summer-create-a-thon-2020"><span class="ProjectFilterContainer-list-item-name">Summer Create-a-thon 2020</span> <span class="ProjectFilterContainer-list-item-count">18</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Organization-summer-solve-a-thon-2019" type="checkbox"/><label for="Organization-summer-solve-a-thon-2019"><span class="ProjectFilterContainer-list-item-name">Summer Solve-a-thon 2019</span> <span class="ProjectFilterContainer-list-item-count">13</span></label></li></ul></div></div><div class="ProjectFilterContainer-category ProjectFilterContainer-collapsed"><div class="ProjectFilterContainer-category-header" id="Organization Type"><span>Organization Type</span><span class="ProjectFilterContainer-showtext"><i class="fas fa-chevron-down"></i></span></div><div class="ProjectFilterContainer-content"><ul class="ProjectFilterContainer-filter-list"><li class="ProjectFilterContainer-list-item"><input id="Organization Type-nonprofit" type="checkbox"/><label for="Organization Type-nonprofit"><span class="ProjectFilterContainer-list-item-name">501(c)(3) Nonprofit</span> <span class="ProjectFilterContainer-list-item-count">19</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Organization Type-fiscally-sponsored-organization" type="checkbox"/><label for="Organization Type-fiscally-sponsored-organization"><span class="ProjectFilterContainer-list-item-name">Fiscally Sponsored Organization (Formal Partnership with a 501(c)(3) Nonprofit)</span> <span class="ProjectFilterContainer-list-item-count">1</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Organization Type-for-profit" type="checkbox"/><label for="Organization Type-for-profit"><span class="ProjectFilterContainer-list-item-name">For Profit Company (Corporation, LLC, Partership, Sole Propreitorship, etc.)</span> <span class="ProjectFilterContainer-list-item-count">4</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Organization Type-informal" type="checkbox"/><label for="Organization Type-informal"><span class="ProjectFilterContainer-list-item-name">Informal (No Legal Entity Established)</span> <span class="ProjectFilterContainer-list-item-count">16</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Organization Type-other-nonprofit" type="checkbox"/><label for="Organization Type-other-nonprofit"><span class="ProjectFilterContainer-list-item-name">Other 501(c) Nonprofit</span> <span class="ProjectFilterContainer-list-item-count">1</span></label></li><li class="ProjectFilterContainer-list-item"><input id="Organization Type-social-purpose-organization" type="checkbox"/><label for="Organization Type-social-purpose-organization"><span class="ProjectFilterContainer-list-item-name">Social Purpose Corporation (or B Corp)</span> <span class="ProjectFilterContainer-list-item-count">4</span></label></li></ul></div></div></div><div class="LocationSearchContainer"><div class="ProjectFilterContainer-category ProjectFilterContainer-collapsed"><div class="ProjectFilterContainer-category-header" id="location-search-section"><span>Location</span><span class="ProjectFilterContainer-showtext"><i class="fas fa-chevron-down"></i></span></div><div class="ProjectFilterContainer-content LocationSearchContainer-content"><label>Country(Required)</label><div class="css-1pcexqc-container" id="country"><div class="css-bg1rzq-control"><div class="css-1hwfws3"><div class="css-dvua67-singleValue">United States of America</div><div class="css-1g6gooi"><div class="" style="display: inline-block;"><input aria-autocomplete="list" autocapitalize="none" autocomplete="off" autocorrect="off" id="react-select-2-input" spellcheck="false" style="box-sizing: content-box; width: 2px; background: 0px center; border: 0px; font-size: inherit; opacity: 1; outline: 0px; padding: 0px; color: inherit;" tabindex="0" type="text" value=""/><div style="position: absolute; top: 0px; left: 0px; visibility: hidden; height: 0px; overflow: scroll; white-space: pre; font-size: 16px; font-family: Montserrat, sans-serif; font-weight: 400; font-style: normal; letter-spacing: normal; text-transform: none;"></div></div></div></div><div class="css-1wy0on6"><span class="css-bgvzuu-indicatorSeparator"></span><div aria-hidden="true" class="css-16pqwjk-indicatorContainer"><svg aria-hidden="true" class="css-19bqh2r" focusable="false" height="20" viewbox="0 0 20 20" width="20"><path d="M4.516 7.548c0.436-0.446 1.043-0.481 1.576 0l3.908 3.747 3.908-3.747c0.533-0.481 1.141-0.446 1.574 0 0.436 0.445 0.408 1.197 0 1.615-0.406 0.418-4.695 4.502-4.695 4.502-0.217 0.223-0.502 0.335-0.787 0.335s-0.57-0.112-0.789-0.335c0 0-4.287-4.084-4.695-4.502s-0.436-1.17 0-1.615z"></path></svg></div></div></div><input name="country" type="hidden" value="USA"/></div><label>Near</label><div class="css-1pcexqc-container" id="location-here"><div class="css-bg1rzq-control"><div class="css-1hwfws3"><div class="css-151xaom-placeholder">Address, city, or zip</div><div class="css-1g6gooi"><div class="" style="display: inline-block;"><input aria-autocomplete="list" autocapitalize="none" autocomplete="off" autocorrect="off" id="react-select-3-input" spellcheck="false" style="box-sizing: content-box; width: 2px; background: 0px center; border: 0px; font-size: inherit; opacity: 1; outline: 0px; padding: 0px; color: inherit;" tabindex="0" type="text" value=""/><div style="position: absolute; top: 0px; left: 0px; visibility: hidden; height: 0px; overflow: scroll; white-space: pre; font-size: 16px; font-family: Montserrat, sans-serif; font-weight: 400; font-style: normal; letter-spacing: normal; text-transform: none;"></div></div></div></div><div class="css-1wy0on6"><span class="css-bgvzuu-indicatorSeparator"></span><div aria-hidden="true" class="css-16pqwjk-indicatorContainer"><svg aria-hidden="true" class="css-19bqh2r" focusable="false" height="20" viewbox="0 0 20 20" width="20"><path d="M4.516 7.548c0.436-0.446 1.043-0.481 1.576 0l3.908 3.747 3.908-3.747c0.533-0.481 1.141-0.446 1.574 0 0.436 0.445 0.408 1.197 0 1.615-0.406 0.418-4.695 4.502-4.695 4.502-0.217 0.223-0.502 0.335-0.787 0.335s-0.57-0.112-0.789-0.335c0 0-4.287-4.084-4.695-4.502s-0.436-1.17 0-1.615z"></path></svg></div></div></div><input name="location-here" type="hidden" value=""/></div><label>Distance</label><div class="css-1pcexqc-container" id="radius"><div class="css-bg1rzq-control"><div class="css-1hwfws3"><div class="css-dvua67-singleValue">50 Miles</div><input class="css-gj7qu5-dummyInput" id="react-select-4-input" readonly="" tabindex="0" value=""/></div><div class="css-1wy0on6"><span class="css-bgvzuu-indicatorSeparator"></span><div aria-hidden="true" class="css-16pqwjk-indicatorContainer"><svg aria-hidden="true" class="css-19bqh2r" focusable="false" height="20" viewbox="0 0 20 20" width="20"><path d="M4.516 7.548c0.436-0.446 1.043-0.481 1.576 0l3.908 3.747 3.908-3.747c0.533-0.481 1.141-0.446 1.574 0 0.436 0.445 0.408 1.197 0 1.615-0.406 0.418-4.695 4.502-4.695 4.502-0.217 0.223-0.502 0.335-0.787 0.335s-0.57-0.112-0.789-0.335c0 0-4.287-4.084-4.695-4.502s-0.436-1.17 0-1.615z"></path></svg></div></div></div><input name="radius" type="hidden" value="50 Miles"/></div></div></div></div></div></div><div class="ProjectCardContainer col-12 col-md-8 col-lg-9 p-0 m-0"><div class="container-fluid"><div class="ProjectSearchSort-container"><div class="ProjectSearchBar-root"><i class="fa fa-search"></i><input class="ProjectSearchBar-input" placeholder="Search tech-for-good projects" value=""/></div><div class="css-1pcexqc-container form-control ProjectSearchSort-sortform"><div class="css-bg1rzq-control ProjectSearchSort__control"><div class="css-1hwfws3 ProjectSearchSort__value-container ProjectSearchSort__value-container--has-value"><div class="css-dvua67-singleValue ProjectSearchSort__single-value">Date Modified</div><div class="css-1g6gooi"><div class="ProjectSearchSort__input" style="display: inline-block;"><input aria-autocomplete="list" autocapitalize="none" autocomplete="off" autocorrect="off" id="react-select-5-input" spellcheck="false" style="box-sizing: content-box; width: 2px; background: 0px center; border: 0px; font-size: inherit; opacity: 1; outline: 0px; padding: 0px; color: inherit;" tabindex="0" type="text" value=""/><div style="position: absolute; top: 0px; left: 0px; visibility: hidden; height: 0px; overflow: scroll; white-space: pre; font-size: 16px; font-family: Montserrat, sans-serif; font-weight: 400; font-style: normal; letter-spacing: normal; text-transform: none;"></div></div></div></div><div class="css-1wy0on6 ProjectSearchSort__indicators"><span class="css-bgvzuu-indicatorSeparator ProjectSearchSort__indicator-separator"></span><div aria-hidden="true" class="css-16pqwjk-indicatorContainer ProjectSearchSort__indicator ProjectSearchSort__dropdown-indicator"><svg aria-hidden="true" class="css-19bqh2r" focusable="false" height="20" viewbox="0 0 20 20" width="20"><path d="M4.516 7.548c0.436-0.446 1.043-0.481 1.576 0l3.908 3.747 3.908-3.747c0.533-0.481 1.141-0.446 1.574 0 0.436 0.445 0.408 1.197 0 1.615-0.406 0.418-4.695 4.502-4.695 4.502-0.217 0.223-0.502 0.335-0.787 0.335s-0.57-0.112-0.789-0.335c0 0-4.287-4.084-4.695-4.502s-0.436-1.17 0-1.615z"></path></svg></div></div></div></div></div><div class="ProjectTagContainer-root"></div><div class="row"><h2 class="ProjectCardContainer-header">Find and volunteer with innovative tech-for-good projects</h2><div class="col-sm-12 col-lg-6"><div class="ProjectCard-root"><a href="?section=AboutProject&amp;id=1" rel="noopener noreferrer"><div class="ProjectCard-logo"><img src="https://democracylab-marlok.s3.amazonaws.com/thumbnails%2Fmark%40democracylab.org%2FnewFile.jpeg_1571934135.9478498.jpeg"/></div><div class="ProjectCard-subinfo"><ul><li><i class="fas fa-map-marker-alt fa-fw"></i>Seattle, WA, USA</li><li class="ProjectCard-url-text"><i class="fas fa-globe-americas fa-fw"></i>democracylab.org</li><li><i class="fas fa-clock fa-fw"></i><time datetime="1595284362479">an hour ago</time></li></ul></div><div class="ProjectCard-title"><h2>DemocracyLab</h2><h4>Civic Infrastructure</h4></div><div class="ProjectCard-description"><p>DemocracyLab empowers people who use technology to advance the public good by connecting skilled volunteers to tech-for-good projects.</p></div><div class="ProjectCard-skills"><h3>Skills Needed</h3><ul><li>Front-End Developer</li><li>Back-End Developer</li><li>Full Stack Developer</li><li>3 more</li></ul></div></a></div></div><div class="col-sm-12 col-lg-6"><div class="ProjectCard-root"><a href="?section=AboutProject&amp;id=356" rel="noopener noreferrer"><div class="ProjectCard-logo"><img src="https://democracylab-marlok.s3.amazonaws.com/thumbnails%2Fshelterappinfo%40gmail.com%2FnewFile.jpeg_1583529531.9633167.jpeg"/></div><div class="ProjectCard-subinfo"><ul><li><i class="fas fa-map-marker-alt fa-fw"></i>Los Angeles, CA, USA</li><li class="ProjectCard-url-text"><i class="fas fa-globe-americas fa-fw"></i>shelterapp.org/</li><li><i class="fas fa-clock fa-fw"></i><time datetime="1595198970250">a day ago</time></li></ul></div><div class="ProjectCard-title"><h2>ShelterApp/Strappd</h2><h4>Homelessness</h4></div><div class="ProjectCard-description"><p>Shelter App, Inc. is an All-volunteer Non-Profit Organization whose mission is to help Homeless and low-income families connect to services.</p></div><div class="ProjectCard-skills"><h3>Skills Needed</h3><ul><li>Data Quality Assurance</li><li>Test Engineer</li></ul></div></a></div></div><div class="col-sm-12 col-lg-6"><div class="ProjectCard-root"><a href="?section=AboutProject&amp;id=227" rel="noopener noreferrer"><div class="ProjectCard-logo"><img src="https://democracylab-marlok.s3.amazonaws.com/thumbnails%2Fbghosh%40turnthebus.org%2Flogo.png_1568421221.7625089.png"/></div><div class="ProjectCard-subinfo"><ul><li><i class="fas fa-map-marker-alt fa-fw"></i>Redmond, WA, USA</li><li class="ProjectCard-url-text"><i class="fas fa-globe-americas fa-fw"></i>www.turnthebus.org</li><li><i class="fas fa-clock fa-fw"></i><time datetime="1595178989192">a day ago</time></li></ul></div><div class="ProjectCard-title"><h2>Turn the Bus - education App for low-income kids in India</h2><h4>Education</h4></div><div class="ProjectCard-description"><p>Created Open edX for kids in India. Need tools to motivate the students via a leaderboard, badges, points and such online incentives</p></div><div class="ProjectCard-skills"><h3>Skills Needed</h3><ul><li>Data Architect</li><li>Back-End Developer</li><li>Front-End Developer</li><li>Full Stack Developer</li></ul></div></a></div></div><div class="col-sm-12 col-lg-6"><div class="ProjectCard-root"><a href="?section=AboutProject&amp;id=486" rel="noopener noreferrer"><div class="ProjectCard-logo"><img src="https://democracylab-marlok.s3.amazonaws.com/thumbnails%2Fjoel%40democracylab.org%2FnewFile.jpeg_1594917471.7804315.jpeg"/></div><div class="ProjectCard-subinfo"><ul><li><i class="fas fa-map-marker-alt fa-fw"></i>Seattle, WA, USA</li><li><i class="fas fa-clock fa-fw"></i><time datetime="1595115677362">2 days ago</time></li></ul></div><div class="ProjectCard-title"><h2>Nonprofit Exchange Hub</h2><h4>Economy</h4></div><div class="ProjectCard-description"><p>A hub for the exchange of goods, information and connections for nonprofits of all sizes.</p></div><div class="ProjectCard-skills"><h3>Skills Needed</h3><ul><li>Management</li><li>Strategy</li><li>Creative Director</li><li>3 more</li></ul></div></a></div></div><div class="col-sm-12 col-lg-6"><div class="ProjectCard-root"><a href="?section=AboutProject&amp;id=438" rel="noopener noreferrer"><div class="ProjectCard-logo"><img src="https://democracylab-marlok.s3.amazonaws.com/thumbnails%2Fopeneugene%40gmail.com%2FnewFile.jpeg_1592608527.526737.jpeg"/></div><div class="ProjectCard-subinfo"><ul><li><i class="fas fa-map-marker-alt fa-fw"></i>Eugene, OR, USA</li><li class="ProjectCard-url-text"><i class="fas fa-globe-americas fa-fw"></i>littlehelpbook.com</li><li><i class="fas fa-clock fa-fw"></i><time datetime="1595114130201">2 days ago</time></li></ul></div><div class="ProjectCard-title"><h2>Little Help Book</h2><h4>Civic Infrastructure</h4></div><div class="ProjectCard-description"><p>Resource discovery for undeserved populations</p></div><div class="ProjectCard-skills"><h3>Skills Needed</h3><ul><li>Cultural Issues</li><li>Technical Lead</li><li>Data Architect</li><li>6 more</li></ul></div></a></div></div><div class="col-sm-12 col-lg-6"><div class="ProjectCard-root"><a href="?section=AboutProject&amp;id=149" rel="noopener noreferrer"><div class="ProjectCard-logo"><img src="https://democracylab-marlok.s3.amazonaws.com/thumbnails%2Fapollor%40thebegoodproject.org%2FnewFile.jpeg_1590964112.9258466.jpeg"/></div><div class="ProjectCard-subinfo"><ul><li><i class="fas fa-map-marker-alt fa-fw"></i>Seattle, WA, USA</li><li class="ProjectCard-url-text"><i class="fas fa-globe-americas fa-fw"></i>www.bananaapp.org</li><li><i class="fas fa-clock fa-fw"></i><time datetime="1595113334639">2 days ago</time></li></ul></div><div class="ProjectCard-title"><h2>Banana App</h2><h4>Homelessness</h4></div><div class="ProjectCard-description"><p>CODE FOR COVID! Location-based food donation app system.</p></div><div class="ProjectCard-skills"><h3>Skills Needed</h3><ul><li>Back-End Developer</li><li>Full Stack Developer</li><li>Operations</li><li>2 more</li></ul></div></a></div></div><div class="col-sm-12 col-lg-6"><div class="ProjectCard-root"><a href="?section=AboutProject&amp;id=81" rel="noopener noreferrer"><div class="ProjectCard-logo"><img src="https://democracylab-marlok.s3.amazonaws.com/thumbnails%2Fsveirs%40gmail.com%2Forca-dorsal-spray-square.png_1537376768.1992114.png"/></div><div class="ProjectCard-subinfo"><ul><li><i class="fas fa-map-marker-alt fa-fw"></i>Seattle, WA, USA</li><li class="ProjectCard-url-text"><i class="fas fa-globe-americas fa-fw"></i>orcasound.net</li><li><i class="fas fa-clock fa-fw"></i><time datetime="1595105008681">2 days ago</time></li></ul></div><div class="ProjectCard-title"><h2>Orcasound - Listen for Whales</h2><h4>Environment</h4></div><div class="ProjectCard-description"><p>Open source web-app (at live.orcasound.net ) that lets users listen for whales and act to conserve them.</p></div><div class="ProjectCard-skills"><h3>Skills Needed</h3><ul><li>UX Designer</li><li>Back-End Developer</li><li>Data Visualization</li><li>5 more</li></ul></div></a></div></div><div class="col-sm-12 col-lg-6"><div class="ProjectCard-root"><a href="?section=AboutProject&amp;id=387" rel="noopener noreferrer"><div class="ProjectCard-logo"><img src="https://democracylab-marlok.s3.amazonaws.com/thumbnails%2Fabiem%40mac.com%2FnewFile.jpeg_1594160881.3892026.jpeg"/></div><div class="ProjectCard-subinfo"><ul><li><i class="fas fa-map-marker-alt fa-fw"></i>Seattle, WA, USA</li><li class="ProjectCard-url-text"><i class="fas fa-globe-americas fa-fw"></i>www.heymayo.com</li><li><i class="fas fa-clock fa-fw"></i><time datetime="1595100087374">2 days ago</time></li></ul></div><div class="ProjectCard-title"><h2>Mayo</h2><h4>No Specific Issue</h4></div><div class="ProjectCard-description"><p>Mayo is the first proximity-based communication app that enables anyone nearby to signal their need or offer for immediate help.</p></div><div class="ProjectCard-skills"><h3>Skills Needed</h3><ul><li>Technical Lead</li><li>Strategy</li><li>Marketing</li></ul></div></a></div></div><div class="col-sm-12 col-lg-6"><div class="ProjectCard-root"><a href="?section=AboutProject&amp;id=489" rel="noopener noreferrer"><div class="ProjectCard-logo"><img src="https://democracylab-marlok.s3.amazonaws.com/thumbnails%2Fjeff.brown%40fourthestate.org%2FnewFile.jpeg_1595077187.1063092.jpeg"/></div><div class="ProjectCard-subinfo"><ul><li><i class="fas fa-map-marker-alt fa-fw"></i>Washington, DC, USA</li><li class="ProjectCard-url-text"><i class="fas fa-globe-americas fa-fw"></i>Civiq.Social</li><li><i class="fas fa-clock fa-fw"></i><time datetime="1595099929371">2 days ago</time></li></ul></div><div class="ProjectCard-title"><h2>Civiq</h2><h4>Civic Infrastructure</h4></div><div class="ProjectCard-description"><p>Civiq is a decentralized, federated, &amp; open social media platform designed to be hosted/operated by local news and journalism orgs.</p></div><div class="ProjectCard-skills"><h3>Skills Needed</h3><ul><li>Test User</li><li>Marketing</li><li>DevOps</li><li>5 more</li></ul></div></a></div></div><div class="col-sm-12 col-lg-6"><div class="ProjectCard-root"><a href="?section=AboutProject&amp;id=85" rel="noopener noreferrer"><div class="ProjectCard-logo"><img src="https://democracylab-marlok.s3.amazonaws.com/thumbnails%2Fjustin%40circavictor.com%2F_rzEq_DK_400x400.jpg_1537639059.8141735.jpeg"/></div><div class="ProjectCard-subinfo"><ul><li><i class="fas fa-map-marker-alt fa-fw"></i>Seattle, WA, USA</li><li class="ProjectCard-url-text"><i class="fas fa-globe-americas fa-fw"></i>dossier.circavictor.com/</li><li><i class="fas fa-clock fa-fw"></i><time datetime="1595094958283">2 days ago</time></li></ul></div><div class="ProjectCard-title"><h2>dossier.</h2><h4>Political Reform</h4></div><div class="ProjectCard-description"><p>dossier is realtime analysis of the US Federal 2020 Election Cycle as it unfolds.</p></div><div class="ProjectCard-skills"><h3>Skills Needed</h3><ul><li>Writer</li><li>Data Analyst</li><li>General</li><li>2 more</li></ul></div></a></div></div><div class="col-sm-12 col-lg-6"><div class="ProjectCard-root"><a href="?section=AboutProject&amp;id=385" rel="noopener noreferrer"><div class="ProjectCard-logo"><img src="https://democracylab-marlok.s3.amazonaws.com/thumbnails%2Fkate%40katelovescode.com%2FnewFile.jpeg_1592931473.0115125.jpeg"/></div><div class="ProjectCard-subinfo"><ul><li><i class="fas fa-map-marker-alt fa-fw"></i>Chicago, IL, USA</li><li class="ProjectCard-url-text"><i class="fas fa-globe-americas fa-fw"></i>www.pieforproviders.com</li><li><i class="fas fa-clock fa-fw"></i><time datetime="1595092303014">2 days ago</time></li></ul></div><div class="ProjectCard-title"><h2>Pie for Providers</h2><h4>Education</h4></div><div class="ProjectCard-description"><p>Pie for Providers helps small child care providers and families claim the government funding for which they are already eligible. </p></div><div class="ProjectCard-skills"><h3>Skills Needed</h3><ul><li>Full Stack Developer</li><li>UX Designer</li></ul></div></a></div></div><div class="col-sm-12 col-lg-6"><div class="ProjectCard-root"><a href="?section=AboutProject&amp;id=381" rel="noopener noreferrer"><div class="ProjectCard-logo"><img src="https://democracylab-marlok.s3.amazonaws.com/thumbnails%2Fheather.coles%40gmail.com%2FnewFile.jpeg_1588846753.9985805.jpeg"/></div><div class="ProjectCard-subinfo"><ul><li><i class="fas fa-map-marker-alt fa-fw"></i>Seattle, WA, USA</li><li><i class="fas fa-clock fa-fw"></i><time datetime="1595088936090">2 days ago</time></li></ul></div><div class="ProjectCard-title"><h2>Recycle Tutor</h2><h4>Environment</h4></div><div class="ProjectCard-description"><p>Augmented Reality recycling simulator for educating citizens on local recycling guidelines.</p></div><div class="ProjectCard-skills"><h3>Skills Needed</h3><ul><li>Graphic Designer</li><li>Front-End Developer</li><li>Test User</li><li>6 more</li></ul></div></a></div></div><div class="col-sm-12 col-lg-6"><div class="ProjectCard-root"><a href="?section=AboutProject&amp;id=383" rel="noopener noreferrer"><div class="ProjectCard-logo"><img src="https://democracylab-marlok.s3.amazonaws.com/thumbnails%2Frwneely%40gmail.com%2FnewFile.jpeg_1588459359.5423284.jpeg"/></div><div class="ProjectCard-subinfo"><ul><li><i class="fas fa-map-marker-alt fa-fw"></i>Seattle, WA, USA</li><li><i class="fas fa-clock fa-fw"></i><time datetime="1595086733190">2 days ago</time></li></ul></div><div class="ProjectCard-title"><h2>Inclusive Intake Data Sharing</h2><h4>Homelessness</h4></div><div class="ProjectCard-description"><p>Creating scalable software solutions to improve coordination across homeless service providers, research institutions, and agencies.</p></div><div class="ProjectCard-skills"><h3>Skills Needed</h3><ul><li>UI Designer</li><li>UX Designer</li><li>User Researcher</li></ul></div></a></div></div><div class="col-sm-12 col-lg-6"><div class="ProjectCard-root"><a href="?section=AboutProject&amp;id=218" rel="noopener noreferrer"><div class="ProjectCard-logo"><img src="https://democracylab-marlok.s3.amazonaws.com/thumbnails%2Fdabreegster%40gmail.com%2FnewFile.jpeg_1580427744.9183474.jpeg"/></div><div class="ProjectCard-subinfo"><ul><li><i class="fas fa-map-marker-alt fa-fw"></i>Seattle, WA, USA</li><li class="ProjectCard-url-text"><i class="fas fa-globe-americas fa-fw"></i>github.com/dabreegster/abstreet</li><li><i class="fas fa-clock fa-fw"></i><time datetime="1595085519906">2 days ago</time></li></ul></div><div class="ProjectCard-title"><h2>A/B Street</h2><h4>Transportation</h4></div><div class="ProjectCard-description"><p>A/B Street is a game simulating pedestrians, bikes, cars, and buses in Seattle. Players edit lanes and intersections to improve traffic flow</p></div><div class="ProjectCard-skills"><h3>Skills Needed</h3><ul><li>Data Visualization</li><li>Transportation</li><li>Test User</li><li>Full Stack Developer</li></ul></div></a></div></div><div class="col-sm-12 col-lg-6"><div class="ProjectCard-root"><a href="?section=AboutProject&amp;id=425" rel="noopener noreferrer"><div class="ProjectCard-logo"><img src="https://democracylab-marlok.s3.amazonaws.com/thumbnails%2Fgary%40everyvoiceengaged.org%2FnewFile.jpeg_1589772597.4494824.jpeg"/></div><div class="ProjectCard-subinfo"><ul><li><i class="fas fa-map-marker-alt fa-fw"></i>San Francisco, CA, USA</li><li class="ProjectCard-url-text"><i class="fas fa-globe-americas fa-fw"></i>www.everyvoiceengaged.org/</li><li><i class="fas fa-clock fa-fw"></i><time datetime="1595085245359">2 days ago</time></li></ul></div><div class="ProjectCard-title"><h2>Every Voice Engaged</h2><h4>Other Issue</h4></div><div class="ProjectCard-description"><p>Every Voice Engaged helps citizens, governments, and nonprofit organizations solve problems that benefit from effective civic engagement.</p></div><div class="ProjectCard-skills"><h3>Skills Needed</h3><ul><li>Contact Project for Details</li></ul></div></a></div></div><div class="col-sm-12 col-lg-6"><div class="ProjectCard-root"><a href="?section=AboutProject&amp;id=226" rel="noopener noreferrer"><div class="ProjectCard-logo"><img src="https://democracylab-marlok.s3.amazonaws.com/thumbnails%2Fmark%40democracylab.org%2FnewFile.jpeg_1571933640.2174747.jpeg"/></div><div class="ProjectCard-subinfo"><ul><li><i class="fas fa-map-marker-alt fa-fw"></i>Seattle, WA, USA</li><li class="ProjectCard-url-text"><i class="fas fa-globe-americas fa-fw"></i>openseattle.org/convictionvacation/</li><li><i class="fas fa-clock fa-fw"></i><time datetime="1595031201345">3 days ago</time></li></ul></div><div class="ProjectCard-title"><h2>Washington Conviction Vacation Project</h2><h4>Social Justice</h4></div><div class="ProjectCard-description"><p>Reducing barriers faced by formerly incarcerated individuals by streamlining process of vacating eligible convictions in Washington state.</p></div><div class="ProjectCard-skills"><h3>Skills Needed</h3><ul><li>User Researcher</li><li>Back-End Developer</li><li>Front-End Developer</li><li>4 more</li></ul></div></a></div></div><div class="col-sm-12 col-lg-6"><div class="ProjectCard-root"><a href="?section=AboutProject&amp;id=428" rel="noopener noreferrer"><div class="ProjectCard-logo"><img src="https://democracylab-marlok.s3.amazonaws.com/thumbnails%2Fblakenan%40bellese.io%2FnewFile.jpeg_1589912795.3909996.jpeg"/></div><div class="ProjectCard-subinfo"><ul><li><i class="fas fa-map-marker-alt fa-fw"></i>Baltimore, MD, USA</li><li class="ProjectCard-url-text"><i class="fas fa-globe-americas fa-fw"></i>codeforbaltimore.org/projects</li><li><i class="fas fa-clock fa-fw"></i><time datetime="1594997632122">3 days ago</time></li></ul></div><div class="ProjectCard-title"><h2>Healthcare Rollcall</h2><h4>Health Care</h4></div><div class="ProjectCard-description"><p>Baltimore City needs help keeping track of the status of health care facilities.  CodeForBaltimore needs your help to meet this need.</p></div><div class="ProjectCard-skills"><h3>Skills Needed</h3><ul><li>Front-End Developer</li><li>Test Engineer</li><li>Full Stack Developer</li><li>Back-End Developer</li></ul></div></a></div></div><div class="col-sm-12 col-lg-6"><div class="ProjectCard-root"><a href="?section=AboutProject&amp;id=230" rel="noopener noreferrer"><div class="ProjectCard-logo"><img src="https://democracylab-marlok.s3.amazonaws.com/thumbnails%2Fgregschundler%40gmail.com%2FnewFile.jpeg_1584067861.0775373.jpeg"/></div><div class="ProjectCard-subinfo"><ul><li><i class="fas fa-map-marker-alt fa-fw"></i>Seattle, WA, USA</li><li class="ProjectCard-url-text"><i class="fas fa-globe-americas fa-fw"></i>www.climatetree.wiki</li><li><i class="fas fa-clock fa-fw"></i><time datetime="1594991051452">3 days ago</time></li></ul></div><div class="ProjectCard-title"><h2>ClimateTree</h2><h4>Environment</h4></div><div class="ProjectCard-description"><p>Empowering students and communities to research, share, and discuss geographically and culturally relevant climate change solution stories</p></div><div class="ProjectCard-skills"><h3>Skills Needed</h3><ul><li>UX Designer</li><li>UI Designer</li><li>Data Security</li><li>4 more</li></ul></div></a></div></div><div class="col-sm-12 col-lg-6"><div class="ProjectCard-root"><a href="?section=AboutProject&amp;id=485" rel="noopener noreferrer"><div class="ProjectCard-logo"><img src="https://democracylab-marlok.s3.amazonaws.com/thumbnails%2Famy%40theworldisfun.org%2FnewFile.jpeg_1594911043.5838084.jpeg"/></div><div class="ProjectCard-subinfo"><ul><li><i class="fas fa-map-marker-alt fa-fw"></i>Seattle, WA, USA</li><li class="ProjectCard-url-text"><i class="fas fa-globe-americas fa-fw"></i>www.theworldisfun.org</li><li><i class="fas fa-clock fa-fw"></i><time datetime="1594912306249">4 days ago</time></li></ul></div><div class="ProjectCard-title"><h2>Connected</h2><h4>Civic Infrastructure</h4></div><div class="ProjectCard-description"><p>A platform to connect volunteers within the community to the nonprofits that need their help in a new and engaging way.</p></div><div class="ProjectCard-skills"><h3>Skills Needed</h3><ul><li>Project Manager</li><li>Technical Lead</li></ul></div></a></div></div><div class="col-sm-12 col-lg-6"><div class="ProjectCard-root"><a href="?section=AboutProject&amp;id=97" rel="noopener noreferrer"><div class="ProjectCard-logo"><img src="https://democracylab-marlok.s3.amazonaws.com/thumbnails%2Fcindy%40fixdemocracyfirst.org%2FFDF-logo-sqare.jpg_1551304168.2823312.jpeg"/></div><div class="ProjectCard-subinfo"><ul><li><i class="fas fa-map-marker-alt fa-fw"></i>Seattle, WA, USA</li><li class="ProjectCard-url-text"><i class="fas fa-globe-americas fa-fw"></i>fixdemocracyfirst.org</li><li><i class="fas fa-clock fa-fw"></i><time datetime="1594836032373">5 days ago</time></li></ul></div><div class="ProjectCard-title"><h2>Fix Democracy First </h2><h4>Political Reform</h4></div><div class="ProjectCard-description"><p>We need help understanding our users habits and pain points, to better engage volunteers &amp; the public about democracy reforms. </p></div><div class="ProjectCard-skills"><h3>Skills Needed</h3><ul><li>UX Designer</li><li>Data Visualization</li><li>Creative Director</li><li>Marketing</li></ul></div></a></div></div></div><div><div class="page_selection_footer"><button class="btn btn-primary">More Projects...</button></div></div></div></div></div></div></div><div class="MainFooter-border"></div><div class="MainFooter-footer container"><div class="MainFooter-item col-12 text-center"><h3>Made Possible With Generous Support From</h3><img alt="Bill and Melinda Gates Foundation logo" src="https://d1agxr2dqkgkuy.cloudfront.net/img/bill-melinda-gates-foundation.png"/></div><div class="MainFooter-item col-12 text-center"><h3>And Our Corporate Partners</h3><a class="MainFooter-pws-button btn btn-primary" href="?section=PartnerWithUs">Partner With Us</a></div><div class="MainFooter-sponsor-container col-12"><h3 class="MainFooter-sponsor-header text-center side-lines">Sustaining</h3><div class="MainFooter-sponsor-wrapper"><div class="MainFooter-sponsor"><a class="MainFooter-sponsor-link" href="https://www.microsoft.com/en-us/" rel="noopener noreferrer" target="_blank"><img src="https://d1agxr2dqkgkuy.cloudfront.net/img/microsoft_300_transparent.png"/></a></div><div class="MainFooter-sponsor"><a class="MainFooter-sponsor-link" href="https://www.aboutamazon.com/our-communities/amazon-in-the-community" rel="noopener noreferrer" target="_blank"><img src="https://d1agxr2dqkgkuy.cloudfront.net/img/amazon_300_transparent.png"/></a></div></div><h3 class="MainFooter-sponsor-header text-center side-lines">Advancing</h3><div class="MainFooter-sponsor-wrapper"><div class="MainFooter-sponsor"><a class="MainFooter-sponsor-link" href="https://developer.here.com/events/DemocracyLab" rel="noopener noreferrer" target="_blank"><img src="https://d1agxr2dqkgkuy.cloudfront.net/img/here_200_transparent.png"/></a></div></div></div></div><div class="SocialFooter-root"><div class="container SocialFooter-container"><div class="SocialFooter-row"><div class="SocialFooter-cta SocialFooter-box"><p>Welcome to DemocracyLab</p><a class="btn btn-footer btn btn-primary" href="?section=ContactUs">Contact Us</a><a class="btn btn-footer btn btn-primary" href="?section=Donate">Donate</a></div><div class="SocialFooter-followus SocialFooter-box"><p>Follow us on</p><div class="SocialFooter-iconblock"><a href="https://www.facebook.com/democracylaborg"><i class="fab fa-facebook-square fa-3x"></i></a><a href="https://twitter.com/democracylab"><i class="fab fa-twitter-square fa-3x"></i></a><a href="https://www.linkedin.com/company/democracylab"><i class="fab fa-linkedin fa-3x"></i></a></div></div><div class="SocialFooter-newsletter SocialFooter-box"><p>Subscribe to our newsletter</p><div id="mc_embed_signup"><form action="https://democracylab.us3.list-manage.com/subscribe/post?u=72af92d0a817dcbf3aa960ee0&amp;id=d3b4c4d81c" class="validate" id="mc-embedded-subscribe-form" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank"><div id="mc_embed_signup_scroll"><div class="mc-field-group SocialFooter-signupcontainer"><label for="mce-EMAIL"></label><input class="btn btn-footer" id="mc-embedded-subscribe" name="subscribe" type="submit" value="Subscribe"/></div><div class="clear" id="mce-responses"><div class="response mc_display_none" id="mce-error-response"></div><div class="response mc_display_none" id="mce-success-response"></div></div><div aria-hidden="true" class="mc_embed_hidden"><input name="b_72af92d0a817dcbf3aa960ee0_d3b4c4d81c" tabindex="-1" type="text" value=""/></div></div></form></div></div></div><div class="SocialFooter-bottom"><p class="SocialFooter-copyright"><a class="SocialFooter-copyright-icons" href="http://creativecommons.org/licenses/by/4.0/" rel="license"><i class="fab fa-creative-commons fa-2x"></i><i class="fab fa-creative-commons-by fa-2x"></i></a><br/>This work by <a href="https://www.democracylab.org/" property="cc:attributionName" rel="cc:attributionURL">DemocracyLab</a> is licensed under a <a href="http://creativecommons.org/licenses/by/4.0/" rel="license">Creative Commons Attribution 4.0 International License</a>.</p></div></div></div></div>
+<iframe id="_hjRemoteVarsFrame" name="_hjRemoteVarsFrame" src="https://vars.hotjar.com/box-469cf41adb11dc78be68c1ae7f9457a4.html" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;" title="_hjRemoteVarsFrame"></iframe><div class="fb_reset" id="fb-root"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div></div></div></div><iframe src="https://bid.g.doubleclick.net/xbbe/pixel?d=KAE" style="display: none;"></iframe></body></html>

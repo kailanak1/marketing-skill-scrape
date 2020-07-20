@@ -16,7 +16,7 @@ wd.get(url)
 WebDriverWait(wd, 20).until(
     EC.visibility_of_element_located((By.CLASS_NAME, "ProjectCard-title")))
 
-#grab HTML sourecode 
+# #grab HTML sourecode 
 html_page = wd.page_source 
 wd.quit()
 
@@ -28,4 +28,4 @@ cards = page.findAll("div", {"class":"ProjectCard-root"})
 for card in cards: 
     title_container = card.find("div", {"class":"ProjectCard-title"})
     title = title_container.h2.text
-   
+    print(title)
