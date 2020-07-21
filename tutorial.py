@@ -28,4 +28,9 @@ cards = page.findAll("div", {"class":"ProjectCard-root"})
 for card in cards: 
     title_container = card.find("div", {"class":"ProjectCard-title"})
     title = title_container.h2.text
+    skills_container = card.find("div", {"class":"ProjectCard-skills"})
+    for skill in skills_container:
+        skill = skills_container.text
+        new_skill = skill.replace("Skills Needed","")
     print(title)
+    print(new_skill)
