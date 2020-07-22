@@ -24,14 +24,6 @@ wd.quit()
 page = soup(html_page, 'html.parser')
 results = page.findAll("div", {"class":"AboutProjects-mainColumn"})
 
-#create csv file 
-filename = 'DemLab Projects Tech and Skills.csv' 
-f = open(filename, "w")
-
-#create headers for csv 
-headers = "title, skills_needed, technologies_used\n"
-f.write(headers)
-
 #Find info 
 
 #title
@@ -57,11 +49,18 @@ for technology in technologies_list:
     
 
 #cleaning 
-print(title)
+
 skill_list.remove('Skills Needed')
-print(skill_list)
 tech_list.remove('Technologies Used')
-print(tech_list)
+
+#create csv file 
+filename = 'DemLab Projects Tech and Skills.csv' 
+f = open(filename, "w")
+
+#create headers for csv 
+headers = "title, skills_needed, technologies_used\n"
+f.write(headers)
+
 
 #write onto csv file 
 
