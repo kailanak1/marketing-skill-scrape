@@ -5,6 +5,7 @@ from selenium.webdriver.common.by import By
 from selenium import webdriver
 from bs4 import BeautifulSoup as soup
 import time
+import datetime
 
 url = 'https://www.democracylab.org/index/?section=AboutProject&id=1'
 
@@ -23,23 +24,46 @@ wd.quit()
 page = soup(html_page, 'html.parser')
 results = page.findAll("div", {"class":"AboutProjects-mainColumn"})
 
+#create csv file 
+filename = 'DemLab Projects Tech and Skills.csv' 
+f = open(filename, "w")
+
+#create headers for csv 
+headers = "title, skills_needed, technologies_used\n"
+f.write(headers)
+
 #Find info 
 
 #title
 title_container = results[0].findAll("div", {"class": "AboutProjects-description"})
 title = title_container[0].h1.text 
-print(title)
 
 #skills 
+skill_list = [] 
 skills_container = results[0].findAll("div", {"class": "AboutProjects-skills"})
 skills_list = skills_container[0].findAll("p")
 for skill in skills_list:
     skill = skill.text
-    print(skill)
+    skill_list.append(skill)
+   
 
 #technologies 
+tech_list = [] 
 technologies_container = results[0].findAll("div", {"class":"AboutProjects-technologies"})
 technologies_list = technologies_container[0].findAll("p")
 for technology in technologies_list: 
     technology = technology.text 
-    print(technology)
+    tech_list.append(technology)
+    
+
+#cleaning 
+print(title)
+skill_list.remove('Skills Needed')
+print(skill_list)
+tech_list.remove('Technologies Used')
+print(tech_list)
+
+#write onto csv file 
+
+f.write(title + "," + skill + "," + technology + "\n")
+f.close()
