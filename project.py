@@ -1,4 +1,4 @@
-#Project Page Scraper
+#Project Page Scraper (one page)
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
@@ -49,7 +49,6 @@ for technology in technologies_list:
     
 
 #cleaning 
-
 skill_list.remove('Skills Needed')
 all_skills = '|'.join(skill_list)
 
@@ -66,6 +65,5 @@ f.write(headers)
 
 
 #write onto csv file 
-
 f.write(title + "," + all_skills + "," + all_tech + "\n")
 f.close()
