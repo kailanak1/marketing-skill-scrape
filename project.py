@@ -51,10 +51,10 @@ for technology in technologies_list:
 #cleaning 
 
 skill_list.remove('Skills Needed')
-all_skills = '\n'.join(skill_list)
+all_skills = '|'.join(skill_list)
 
 tech_list.remove('Technologies Used')
-all_tech = '\n'.join(tech_list)
+all_tech = '|'.join(tech_list)
 
 #create csv file 
 filename = 'DemLab Projects Tech and Skills.csv' 
@@ -67,5 +67,5 @@ f.write(headers)
 
 #write onto csv file 
 
-f.write(title + "," + all_skills + "\n" + all_tech + "\n")
+f.write(title + "," + all_skills + "," + all_tech + "\n")
 f.close()
