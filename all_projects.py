@@ -68,7 +68,12 @@ for number in page_number:
         all_tech = '|'.join(tech_list)
 
     #write onto csv file 
-    f.write(title + "," + all_skills + "," + all_tech + "\n")
+    if not len(skill_list):
+        f.write(title + "," + "" + "," + all_tech + "\n")
+    elif not len(tech_list):
+        f.write(title + "," + all_skills + "," + "" + "\n")
+    else:
+        f.write(title + "," + all_skills + "," + all_tech + "\n")
 f.close()
 
 
