@@ -13,57 +13,73 @@ wd = webdriver.Chrome()
 wd.get(url)
 
 #wait for dynamic content to load 
-WebDriverWait(wd, 20).until(
-    EC.visibility_of_element_located((By.CLASS_NAME, "AboutProjects-description")))
+try: 
 
-#grab HTML sourecode 
-html_page = wd.page_source 
-wd.quit()
+    WebDriverWait(wd, 20).until(
+        EC.visibility_of_element_located((By.CLASS_NAME, 'SectionBody')))
 
-#parse 
-page = soup(html_page, 'html.parser')
-results = page.findAll("div", {"class":"AboutProjects-mainColumn"})
+    #grab HTML sourecode 
+    html_page = wd.page_source 
+    wd.quit()
 
-#Find info 
+    #parse 
+    page = soup(html_page, 'html.parser')
 
-#title
-title_container = results[0].findAll("div", {"class": "AboutProjects-description"})
-title = title_container[0].h1.text 
+    #check if project exists 
+    wd.find_element_by_xpath("/html/body/form[1]")
 
-#skills 
-skill_list = [] 
-skills_container = results[0].findAll("div", {"class": "AboutProjects-skills"})
-skills_list = skills_container[0].findAll("p")
-for skill in skills_list:
-    skill = skill.text
-    skill_list.append(skill)
-   
+    results = page.findAll("div", {"class":"AboutProjects-mainColumn"})
 
-#technologies 
-tech_list = [] 
-technologies_container = results[0].findAll("div", {"class":"AboutProjects-technologies"})
-technologies_list = technologies_container[0].findAll("p")
-for technology in technologies_list: 
-    technology = technology.text 
-    tech_list.append(technology)
+    #Find info 
+
+    #about info 
+    about_container = page.findAll("p", {"class":"AboutProjects-icon-text"})
+    location = about_container[0].text
+    last_updated = about_container[1].text
+
+
+    #title
+    title_container = results[0].findAll("div", {"class": "AboutProjects-description"})
+    title = title_container[0].h1.text 
+
+    #skills 
+    skill_list = [] 
+    skills_container = results[0].findAll("div", {"class": "AboutProjects-skills"})
+    skills_list = skills_container[0].findAll("p")
+    for skill in skills_list:
+        skill = skill.text
+        skill_list.append(skill)
     
 
-#cleaning 
-skill_list.remove('Skills Needed')
-all_skills = '|'.join(skill_list)
+    #technologies 
+    tech_list = [] 
+    technologies_container = results[0].findAll("div", {"class":"AboutProjects-technologies"})
+    technologies_list = technologies_container[0].findAll("p")
+    for technology in technologies_list: 
+        technology = technology.text 
+        tech_list.append(technology)
+        
 
-tech_list.remove('Technologies Used')
-all_tech = '|'.join(tech_list)
+    #cleaning 
+    skill_list.remove('Skills Needed')
+    all_skills = '|'.join(skill_list)
 
-#create csv file 
-filename = 'DemLab Projects Tech and Skills.csv' 
-f = open(filename, "w")
+    tech_list.remove('Technologies Used')
+    all_tech = '|'.join(tech_list)
 
-#create headers for csv 
-headers = "title, skills_needed, technologies_used\n"
-f.write(headers)
+    all_location = location.replace(",", " ")
+
+    #create csv file 
+    filename = 'DemLab Projects Tech and Skills.csv' 
+    f = open(filename, "w")
+
+    #create headers for csv 
+    headers = "title, location, skills_needed, technologies_used, last_updated\n"
+    f.write(headers)
 
 
-#write onto csv file 
-f.write(title + "," + all_skills + "," + all_tech + "\n")
-f.close()
+    #write onto csv file 
+    f.write(title + "," + all_location + "," + all_skills + "," + all_tech + "," + last_updated + "\n")
+    f.close()
+except: 
+    print("could not locate project")

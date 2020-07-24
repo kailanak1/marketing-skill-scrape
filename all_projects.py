@@ -8,15 +8,15 @@ import time
 import datetime
 import csv
 
-page_number = [1,7,12,14,21,56,57,58,61,63,64,65,66,69,71,75,77,81,82,83,84,85,89,97,98,99,100,101,102,103,104,105,107,110,111,112,145,147,148,149,158,159,171,178,179,181,218,219,220,222,224,226,227,230,239,241,281,282,283,284,285,286,287,300,303,354,354,356,371,380,381,382,383,384,385,386,387,388,421,422,423,425,428,431,432,438,485,486]
-
+#content should be dynamic in later iterations
+page_number = [1,12]
 
 #create csv file 
 filename = 'DemLab Projects Tech and Skills(all).csv' 
 f = open(filename, "w")
 
 #create headers for csv 
-headers = "title, skills_needed, technologies_used\n"
+headers = "title, location, skills_needed, technologies_used, last_updated\n"
 f.write(headers)
 
 #loop through the projects
@@ -25,9 +25,10 @@ for number in page_number:
     wd = webdriver.Chrome()
     wd.get(url)
 
+
     #wait for dynamic content to load 
-    WebDriverWait(wd, 10).until(
-        EC.visibility_of_element_located((By.CLASS_NAME, "AboutProjects-description")))
+    wait = WebDriverWait(wd, 10)
+    element = wait.until(EC.visibility_of_element_located((By.CLASS_NAME, "AboutProjects-description")))
 
     #grab HTML sourecode 
     html_page = wd.page_source 
@@ -35,7 +36,14 @@ for number in page_number:
 
     #parse 
     page = soup(html_page, 'html.parser')
+
+    #grab page info
     results = page.findAll("div", {"class":"AboutProjects-mainColumn"})
+
+    #about info 
+    about_container = page.findAll("p", {"class":"AboutProjects-icon-text"})
+    location = about_container[0].text
+    last_updated = about_container[1].text
 
     #title
     title_container = results[0].findAll("div", {"class": "AboutProjects-description"})
@@ -67,13 +75,15 @@ for number in page_number:
         tech_list.remove('Technologies Used')
         all_tech = '|'.join(tech_list)
 
+    all_location = location.replace(",", " ")
+
     #write onto csv file 
     if not len(skill_list):
-        f.write(title + "," + "" + "," + all_tech + "\n")
+        f.write(title + "," + all_location + "" + "," + all_tech + "," + last_updated + "\n")
     elif not len(tech_list):
-        f.write(title + "," + all_skills + "," + "" + "\n")
+        f.write(title + "," + all_location + "," + all_skills + "," + "" + "," + last_updated + "\n")
     else:
-        f.write(title + "," + all_skills + "," + all_tech + "\n")
+        f.write(title + "," + all_location + "," + all_skills + "," + all_tech + "," + last_updated + "\n")
 f.close()
 
 
