@@ -9,7 +9,7 @@ import datetime
 import csv
 
 #content should be dynamic in later iterations
-page_number = [1,12]
+page_number = [1,7,12,14,21,56,57,58,61,63,64,65,66,69,71,75,77,81,82,83,84,85,89,97,98,99,100,101,102,103,104,105,107,110,111,112,145,147,148,149,158,159,171,178,179,181,218,219,220,222,224,226,227,230,239,241,281,282,283,284,285,286,287,300,303,354,354,356,371,380,381,382,383,384,385,386,387,388,421,422,423,425,428,431,432,438,485,486]
 
 #create csv file 
 filename = 'DemLab Projects Tech and Skills(all).csv' 
@@ -27,7 +27,7 @@ for number in page_number:
 
 
     #wait for dynamic content to load 
-    wait = WebDriverWait(wd, 10)
+    wait = WebDriverWait(wd, 20)
     element = wait.until(EC.visibility_of_element_located((By.CLASS_NAME, "AboutProjects-description")))
 
     #grab HTML sourecode 
@@ -82,6 +82,8 @@ for number in page_number:
         f.write(title + "," + all_location + "" + "," + all_tech + "," + last_updated + "\n")
     elif not len(tech_list):
         f.write(title + "," + all_location + "," + all_skills + "," + "" + "," + last_updated + "\n")
+    elif not len(skill_list) and not len(tech_list):
+        f.write(title + "," + all_location + "," + "" + "," + "" + "," + last_updated + "\n")
     else:
         f.write(title + "," + all_location + "," + all_skills + "," + all_tech + "," + last_updated + "\n")
 f.close()
