@@ -13,19 +13,19 @@ Has not been tested on Windows.
 
 On a Mac: 
 
-[Install python](https://www.python.org/downloads/) 
-[Install selenium](https://selenium-python.readthedocs.io/)
-[Install beautiful soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+- [Install python](https://www.python.org/downloads/) 
+- [Install selenium](https://selenium-python.readthedocs.io/)
+- [Install beautiful soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
-Clone the project on your local machine by forking and cloning this respository. Copy the SSH link, open your terminal, and type:  
+- Clone the project on your local machine by forking and cloning this respository. Copy the SSH link, open your terminal, and type:  
 
 ```$ git clone <SSH link>```
 
-After cloning the repository, cd into the folder.  
+- After cloning the repository, cd into the folder.  
 
 ```$ cd selenium-tutorial```
 
-Run the program. 
+- Run the program. 
 
 Scrape all projects: 
 
