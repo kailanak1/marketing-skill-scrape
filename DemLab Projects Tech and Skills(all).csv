@@ -1,36 +1,44 @@
-title, location, skills_needed, technologies_used, last_updated
-DemocracyLab,Seattle  WA  USA,Front-End Developer|DevOps|Back-End Developer|Full Stack Developer|Fundraising|UX Designer|Operations,Django|React|Python|JavaScript|HTML|PostgreSQL|Web|Figma|Salesforce,3 days ago
-Northwest Health Career Path - Diversity in Health Sciences,Seattle,Technical Lead|Full Stack Developer,JavaScript|React|MongoDB|Go|Node.js,16 days ago
-Seattle Civic User Testing Group,Seattle  WA  USA,Graphic Designer,,10 months ago
-Hey Duwamish River Cleanup Project,Seattle  WA  USA,JavaScript|React|Python,2 years ago
-ACT - Access and Connectivity Toolkit,Seattle  WA  USA,Back-End Developer|Data Visualization|Writer,JavaScript|MongoDB|Keystone.js,3 months ago
-Seattle Collisions,Seattle  WA  USA,Front-End Developer|UX Designer|Full Stack Developer|Back-End Developer,JavaScript|Vue.js|PHP|MySQL|Laravel,2 years ago
-PINION,Seattle  WA  USA,Marketing|Fundraising|Data Architect|Data Visualization|UX Designer|Full Stack Developer|Technical Lead,Android|Web|iOS|SQL Server|ASP.NET MVC|Balsamiq|Axure,2 months ago
-Mapseed,Seattle  WA  USA,JavaScript|React|Python,a year ago
-eLiberate / Public Sphere Project,Seattle,UI Designer|Back-End Developer|Marketing|Civic Infrastructure,JavaScript|Web|MongoDB,a year ago
-The National Student Mock Election,USA,UI Designer|UX Designer|Front-End Developer|Full Stack Developer|Political Reform,MySQL|Django|Python|Web|HTML,a month ago
-RHours - Labor Theory of Property,Global,Accounting|Strategy|Writer|Economy|General|Full Stack Developer|Legal,JavaScript,6 months ago
-Room for Good,Seattle  WA  USA,UX Designer|Strategy,iOS,a year ago
-Activist Mirror,Seattle  WA  USA,UI Designer|Marketing|Back-End Developer|Civic Infrastructure|Education,JavaScript|PHP|MySQL|Web,a year ago
-TruthTree.wiki - The Public Data Visualization Wiki,Seattle  WA  USA,Data Architect|Data Visualization|UX Designer|Full Stack Developer|General,Web|JavaScript|Python|C++|SQL|R|Matlab,9 months ago
-Idealish,Other,Ruby on Rails,2 years ago
-Feedback Friend (Results Washington),Olympia  WA  USA,Ruby on Rails,a year ago
-Ready Set Vote,Seattle  WA  USA,Marketing|Full Stack Developer|Back-End Developer|Test Engineer|Front-End Developer|Test Engineer|UX Designer,JavaScript|React|Express|MongoDB|TypeScript|Node.js,8 months ago
-Orcasound - Listen for Whales,Seattle  WA  USA,UX Designer|Back-End Developer|Data Visualization|Data Analyst|Data Architect|Test User|Project Manager|Front-End Developer,Web|Wordpress|Python|Shell|JavaScript|PostgreSQL|React|InVision|Adobe XD|Figma|Adobe Creative Suite|Sketch,3 days ago
-Beyond Economic Activity,Seattle  WA  USA,Web,2 years ago
-Hatorade - Social Media Bot Detection.,Seattle  WA  USA,Strategy|Fundraising|UX Designer,PostgreSQL|Ruby on Rails|Ember.js,a year ago
-Hopelink Mobility Mgt. RARET Website with LMS,Seattle  WA  USA,Graphic Designer|Data Quality Assurance|UI Designer|Data Architect|Front-End Developer|Back-End Developer,Wordpress,a year ago
-dossier.,Seattle  WA  USA,Writer|Data Analyst|General|Strategy|Front-End Developer,JavaScript|Vue.js|PostgreSQL|Node.js,8 days ago
-Seattle VolunTech,Seattle  WA  USA,Full Stack Developer|UX Designer,React|PostgreSQL|Java|Spring MVC,a year ago
-Fix Democracy First ,Seattle  WA  USA,UX Designer|Data Visualization|Creative Director|Marketing,Web|Wordpress,11 days ago
-Open Source Ecology,Other,Fundraising|Market Research|Marketing|Strategy|Storyteller|UX Designer|User Researcher|Product Manager|DevOps|Civic Infrastructure|Homelessness|Education|Housing Policies|Transportation|Economy,Web|Python|Arduino|HTML|JavaScript|C++|C,9 months ago
-Public Sphere Project ~~ Migration & Redesign,Seattle  WA  USA,Back-End Developer|Data Architect|UI Designer,Drupal,2 years ago
-Skillbuddy,Seattle  WA  USA,UX Designer|Full Stack Developer,,a year ago
-Awesome Journalism,Other,Full Stack Developer,Ruby,a year ago
-Rainier Athletes Volunteer Portal,Bellevue  WA  USA,UX Designer|UI Designer,JavaScript|React|Web|Express|Node.js,6 months ago
-Government Financial Statement Library,San Francisco  CA  USA,Back-End Developer,PHP|Python,3 months ago
-Visualizing state gov performance -- how are we really doing,Olympia  WA  USA,Data Visualization,Drupal,a year ago
-WinWisely,New York  NY  USA,Technical Lead|General,Android|Python|Web|iOS|Ruby,a year ago
-Engineers & Scientists Acting Locally - Social Media,Other,User Researcher,,a year ago
-FareStart Data Warehousing Pilot,Seattle  WA  USA,Data Architect|Data Analyst|Full Stack Developer|Data Visualization|Back-End Developer|Data Security,JavaScript|Python|SQL,6 months ago
-OpenSidewalks: crowdsourcing large-scale accessibility data,Seattle  WA  USA,Back-End Developer|Full Stack Developer|Project Manager|UX Designer,JavaScript|Python|PostgreSQL,a year ago
+title, skills_needed, technologies_used, last_updated
+DemocracyLab,Front-End Developer|DevOps|Back-End Developer|Full Stack Developer|Fundraising|UX Designer|Operations,Django|React|Python|JavaScript|HTML|PostgreSQL|Web|Figma|Salesforce,4 days ago
+Northwest Health Career Path - Diversity in Health Sciences,Technical Lead|Full Stack Developer,JavaScript|React|MongoDB|Go|Node.js,17 days ago
+Seattle Civic User Testing Group,Graphic Designer,,10 months ago
+Hey Duwamish River Cleanup Project,,JavaScript|React|Python,2 years ago
+ACT - Access and Connectivity Toolkit,Back-End Developer|Data Visualization|Writer,JavaScript|MongoDB|Keystone.js,3 months ago
+Seattle Collisions,Front-End Developer|UX Designer|Full Stack Developer|Back-End Developer,JavaScript|Vue.js|PHP|MySQL|Laravel,2 years ago
+PINION,Marketing|Fundraising|Data Architect|Data Visualization|UX Designer|Full Stack Developer|Technical Lead,Android|Web|iOS|SQL Server|ASP.NET MVC|Balsamiq|Axure,2 months ago
+Mapseed,,JavaScript|React|Python,a year ago
+eLiberate / Public Sphere Project,UI Designer|Back-End Developer|Marketing|Civic Infrastructure,JavaScript|Web|MongoDB,a year ago
+The National Student Mock Election,UI Designer|UX Designer|Front-End Developer|Full Stack Developer|Political Reform,MySQL|Django|Python|Web|HTML,a month ago
+RHours - Labor Theory of Property,Accounting|Strategy|Writer|Economy|General|Full Stack Developer|Legal,JavaScript,6 months ago
+Room for Good,UX Designer|Strategy,iOS,a year ago
+Activist Mirror,UI Designer|Marketing|Back-End Developer|Civic Infrastructure|Education,JavaScript|PHP|MySQL|Web,a year ago
+TruthTree.wiki - The Public Data Visualization Wiki,Data Architect|Data Visualization|UX Designer|Full Stack Developer|General,Web|JavaScript|Python|C++|SQL|R|Matlab,9 months ago
+Idealish,,Ruby on Rails,2 years ago
+Feedback Friend (Results Washington),,Ruby on Rails,a year ago
+Ready Set Vote,Marketing|Full Stack Developer|Back-End Developer|Test Engineer|Front-End Developer|Test Engineer|UX Designer,JavaScript|React|Express|MongoDB|TypeScript|Node.js,8 months ago
+Orcasound - Listen for Whales,UX Designer|Back-End Developer|Data Visualization|Data Analyst|Data Architect|Test User|Project Manager|Front-End Developer,Web|Wordpress|Python|Shell|JavaScript|PostgreSQL|React|InVision|Adobe XD|Figma|Adobe Creative Suite|Sketch,20 hours ago
+Beyond Economic Activity,,Web,2 years ago
+Hatorade - Social Media Bot Detection.,Strategy|Fundraising|UX Designer,PostgreSQL|Ruby on Rails|Ember.js,a year ago
+Hopelink Mobility Mgt. RARET Website with LMS,Graphic Designer|Data Quality Assurance|UI Designer|Data Architect|Front-End Developer|Back-End Developer,Wordpress,a year ago
+dossier.,Writer|Data Analyst|General|Strategy|Front-End Developer,JavaScript|Vue.js|PostgreSQL|Node.js,9 days ago
+Seattle VolunTech,Full Stack Developer|UX Designer,React|PostgreSQL|Java|Spring MVC,a year ago
+Fix Democracy First ,UX Designer|Data Visualization|Creative Director|Marketing,Web|Wordpress,12 days ago
+Open Source Ecology,Fundraising|Market Research|Marketing|Strategy|Storyteller|UX Designer|User Researcher|Product Manager|DevOps|Civic Infrastructure|Homelessness|Education|Housing Policies|Transportation|Economy,Web|Python|Arduino|HTML|JavaScript|C++|C,10 months ago
+Public Sphere Project ~~ Migration & Redesign,Back-End Developer|Data Architect|UI Designer,Drupal,2 years ago
+Skillbuddy,UX Designer|Full Stack Developer,,a year ago
+Awesome Journalism,Full Stack Developer,Ruby,a year ago
+Rainier Athletes Volunteer Portal,UX Designer|UI Designer,JavaScript|React|Web|Express|Node.js,6 months ago
+Government Financial Statement Library,Back-End Developer,PHP|Python,3 months ago
+Visualizing state gov performance -- how are we really doing,Data Visualization,Drupal,a year ago
+WinWisely,Technical Lead|General,Android|Python|Web|iOS|Ruby,a year ago
+Engineers & Scientists Acting Locally - Social Media,User Researcher,,a year ago
+FareStart Data Warehousing Pilot,Data Architect|Data Analyst|Full Stack Developer|Data Visualization|Back-End Developer|Data Security,JavaScript|Python|SQL,7 months ago
+OpenSidewalks: crowdsourcing large-scale accessibility data,Back-End Developer|Full Stack Developer|Project Manager|UX Designer,JavaScript|Python|PostgreSQL,a year ago
+Town hall project,,JavaScript|React,15 days ago
+Council Data Project,UX Designer|Front-End Developer|Back-End Developer|Data Analyst,JavaScript|React|Python|MongoDB,15 days ago
+Business to Government Market Efficiency ,UI Designer|Back-End Developer|Front-End Developer|UX Designer|Data Architect,MySQL|Python|R|SQL Server|Wordpress,8 months ago
+Continueli,Full Stack Developer,MySQL|React|Express|HTML|MongoDB|Node.js,a year ago
+Banana App,Back-End Developer|Full Stack Developer|Operations|Fundraising|Market Research,JavaScript|PostgreSQL|Web|Ruby|Figma|Android|iOS,6 days ago
+Civic Space,Test User,Python,10 months ago
+Professionals Speaking in Classrooms,UI Designer|Front-End Developer,PHP|MySQL|HTML,a year ago
+Upgrade Drupal and PHP Versions,Back-End Developer,PHP|Web|Drupal,a year ago

@@ -16,7 +16,7 @@ filename = 'DemLab Projects Tech and Skills(all).csv'
 f = open(filename, "w")
 
 #create headers for csv 
-headers = "title, location, skills_needed, technologies_used, last_updated\n"
+headers = "title, skills_needed, technologies_used, last_updated\n"
 f.write(headers)
 
 #loop through the projects
@@ -42,7 +42,6 @@ for number in page_number:
 
     #about info 
     about_container = page.findAll("p", {"class":"AboutProjects-icon-text"})
-    location = about_container[0].text
     last_updated = about_container[1].text
 
     #title
@@ -75,17 +74,16 @@ for number in page_number:
         tech_list.remove('Technologies Used')
         all_tech = '|'.join(tech_list)
 
-    all_location = location.replace(",", " ")
 
     #write onto csv file 
     if not len(skill_list):
-        f.write(title + "," + all_location + "" + "," + all_tech + "," + last_updated + "\n")
+        f.write(title + "," + "" + "," + all_tech + "," + last_updated + "\n")
     elif not len(tech_list):
-        f.write(title + "," + all_location + "," + all_skills + "," + "" + "," + last_updated + "\n")
+        f.write(title + "," + all_skills + "," + "" + "," + last_updated + "\n")
     elif not len(skill_list) and not len(tech_list):
-        f.write(title + "," + all_location + "," + "" + "," + "" + "," + last_updated + "\n")
+        f.write(title + "," + "" + "," + "" + "," + last_updated + "\n")
     else:
-        f.write(title + "," + all_location + "," + all_skills + "," + all_tech + "," + last_updated + "\n")
+        f.write(title + "," + all_skills + "," + all_tech + "," + last_updated + "\n")
 f.close()
 
 
