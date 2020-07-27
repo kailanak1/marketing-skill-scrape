@@ -13,9 +13,9 @@ Has not been tested on Windows.
 
 On a Mac: 
 
-(Install python)[https://www.python.org/downloads/] 
-(Install selenium) [https://selenium-python.readthedocs.io/]
-(Install beautiful soup)[https://www.crummy.com/software/BeautifulSoup/bs4/doc/]
+[Install python](https://www.python.org/downloads/) 
+[Install selenium](https://selenium-python.readthedocs.io/)
+[Install beautiful soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 Clone the project on your local machine by forking and cloning this respository. Copy the SSH link, open your terminal, and type:  
 
