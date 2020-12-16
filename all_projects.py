@@ -2,14 +2,19 @@
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
+
 from selenium import webdriver
+from webdriver_manager.chrome import ChromeDriverManager
+
+wd = webdriver.Chrome(ChromeDriverManager().install())
+
 from bs4 import BeautifulSoup as soup
 import time
 import datetime
 import csv
 
 #content should be dynamic in later iterations
-page_number = [1,7,12,14,21,56,57,58,61,63,64,65,66,69,71,77,81,82,83,84,85,89,97,98,99,100,101,102,103,104,105,107,110,111,112,145,147,148,149,158,159,171,178,179,181,218,219,220,222,224,226,227,230,239,241,281,282,283,284,285,286,287,300,303,354,354,356,371,380,381,382,383,384,385,386,387,388,421,422,423,425,428,431,432,438,485,486, 493, 500, 502]
+page_number = [1,7,12,14,21,56,57,58,61,63,64,65,66,69,71,77,81,82,83,84,85,89,97,98,99,100,101,102,103,104,105,107,110,111,112,145,147,148,149,158,159,171,178,179,181,218,219,220,222,224,226,227,230,239,241,281,282,283,284,285,286,287,300,303,354,354,356,371,380,381,382,383,384,385,386,387,388,421,422,423,425,428,431,432,438,485,486, 493, 500, 502, 504, 524, 525, 528, 534, 535]
 
 #create csv file 
 filename = 'DemLab Projects Tech and Skills(all).csv' 
@@ -22,7 +27,7 @@ f.write(headers)
 #loop through the projects
 for number in page_number:
     url = 'https://www.democracylab.org/index/?section=AboutProject&id=' + str(number)
-    wd = webdriver.Chrome()
+    
     wd.get(url)
 
 
